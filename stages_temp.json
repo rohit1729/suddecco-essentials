@@ -1,0 +1,934 @@
+[
+    {
+        "id": 472,
+        "scheduleareaIds": [],
+        "stage": "Plumbed appliances",
+        "stageOrder": 16,
+        "elements": [
+            {
+                "id": 1739,
+                "element": "Shower tray",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2004,
+                "element": "Sprinkler system",
+                "elementOrder": 20,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1881,
+                "element": "Shower screen",
+                "elementOrder": 4,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2013,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1888,
+                "element": "Sink Trap",
+                "elementOrder": 8,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1889,
+                "element": "Flush plate",
+                "elementOrder": 18,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1763,
+                "element": "Bath tap",
+                "elementOrder": 10,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1764,
+                "element": "Bath waste",
+                "elementOrder": 11,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2084,
+                "element": "Pricing clarifications",
+                "elementOrder": 0,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1959,
+                "element": "Water feature",
+                "elementOrder": 17,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2091,
+                "element": "Water meter",
+                "elementOrder": 25,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1968,
+                "element": "Subcontractor",
+                "elementOrder": 102,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1649,
+                "element": "Bath",
+                "elementOrder": 9,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1650,
+                "element": "Dishwasher",
+                "elementOrder": 16,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1651,
+                "element": "Toilet",
+                "elementOrder": 12,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1652,
+                "element": "Bathroom furniture",
+                "elementOrder": 19,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1653,
+                "element": "Sink taps",
+                "elementOrder": 6,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2038,
+                "element": "Mastic / Sealant",
+                "elementOrder": 24,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1655,
+                "element": "Sink",
+                "elementOrder": 5,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1976,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1849,
+                "element": "External tap",
+                "elementOrder": 22,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1914,
+                "element": "Washer/dryer",
+                "elementOrder": 15,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1788,
+                "element": "Shower mixer and head",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1789,
+                "element": "Shower waste",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1790,
+                "element": "Sink waste",
+                "elementOrder": 7,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1859,
+                "element": "Water tank",
+                "elementOrder": 21,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 479,
+        "scheduleareaIds": [],
+        "stage": "Wired appliances",
+        "stageOrder": 17,
+        "elements": [
+            {
+                "id": 1733,
+                "element": "Fire alarm",
+                "elementOrder": 13,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1735,
+                "element": "Data points",
+                "elementOrder": 16,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2057,
+                "element": "Pricing clarifications",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1996,
+                "element": "Microwave",
+                "elementOrder": 15,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1965,
+                "element": "Electrical installation",
+                "elementOrder": 20,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1969,
+                "element": "Subcontractor",
+                "elementOrder": 102,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1753,
+                "element": "Security System",
+                "elementOrder": 12,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1977,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1722,
+                "element": "Sockets",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1850,
+                "element": "TV",
+                "elementOrder": 7,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1723,
+                "element": "Ceiling lights",
+                "elementOrder": 4,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1724,
+                "element": "Switches",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1725,
+                "element": "Fridge/freezer",
+                "elementOrder": 9,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2077,
+                "element": "Other wired appliances",
+                "elementOrder": 19,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1726,
+                "element": "Oven",
+                "elementOrder": 8,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1727,
+                "element": "Hob",
+                "elementOrder": 10,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1729,
+                "element": "Doorbell",
+                "elementOrder": 14,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1953,
+                "element": "Electric operated blinds",
+                "elementOrder": 17,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1730,
+                "element": "Wall lights",
+                "elementOrder": 6,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2018,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1731,
+                "element": "Uplights",
+                "elementOrder": 5,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1732,
+                "element": "Ventilation",
+                "elementOrder": 11,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 501,
+        "scheduleareaIds": [],
+        "stage": "Ceiling preparation and finishes",
+        "stageOrder": 18,
+        "elements": [
+            {
+                "id": 2088,
+                "element": "Pricing clarifications",
+                "elementOrder": 0,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1916,
+                "element": "Ceiling decorative profile",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2029,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1806,
+                "element": "Ceiling finish",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1808,
+                "element": "Ceiling preparation",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 488,
+        "scheduleareaIds": [],
+        "stage": "Wall preparation and finishes",
+        "stageOrder": 19,
+        "elements": [
+            {
+                "id": 2085,
+                "element": "Pricing clarifications",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2086,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2025,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1708,
+                "element": "Internal wall finishes",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1917,
+                "element": "Wall decorative profile",
+                "elementOrder": 4,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1855,
+                "element": "Internal wall preparation",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "scheduleareaIds": [],
+        "stage": "Floor preparation and finishes",
+        "stageOrder": 20,
+        "elements": [
+            {
+                "id": 2069,
+                "element": "Pricing clarifications",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2011,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1948,
+                "element": "Floor preparation",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1680,
+                "element": "Floor finishes",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1987,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 469,
+        "scheduleareaIds": [],
+        "stage": "Units, worktops and kitchen appliances",
+        "stageOrder": 21,
+        "elements": [
+            {
+                "id": 1864,
+                "element": "Worktops",
+                "elementOrder": 5,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2056,
+                "element": "Pricing clarifications",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1801,
+                "element": "Base cabinets",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1963,
+                "element": "Complete Kitchen",
+                "elementOrder": 6,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2096,
+                "element": "Kitchen fittings, furniture and equipment",
+                "elementOrder": 12,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2010,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1852,
+                "element": "Wall cabinets",
+                "elementOrder": 4,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1662,
+                "element": "Full height units",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2078,
+                "element": "Kitchen appliances",
+                "elementOrder": 7,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2079,
+                "element": "Kitchen sink",
+                "elementOrder": 8,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2080,
+                "element": "Kitchen tap",
+                "elementOrder": 10,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2081,
+                "element": "Kitchen sink waste",
+                "elementOrder": 9,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2082,
+                "element": "Sundry items",
+                "elementOrder": 11,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1988,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 473,
+        "scheduleareaIds": [],
+        "stage": "Joinery",
+        "stageOrder": 22,
+        "elements": [
+            {
+                "id": 1741,
+                "element": "Shelves",
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1758,
+                "element": "Joinery",
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2014,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1744,
+                "element": "Boxing",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 486,
+        "scheduleareaIds": [],
+        "stage": "Decoration",
+        "stageOrder": 23,
+        "elements": [
+            {
+                "id": 1991,
+                "element": "Caulking",
+                "elementOrder": 14,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1992,
+                "element": "Paint to property",
+                "elementOrder": 12,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2024,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2089,
+                "element": "Pricing clarifications",
+                "elementOrder": 0,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2090,
+                "element": "External Decoration",
+                "elementOrder": 16,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2092,
+                "element": "Paint to joinery",
+                "elementOrder": 17,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1677,
+                "element": "Paint to ceiling",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1678,
+                "element": "Paint to walls",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1999,
+                "element": "Wallpaper and lining paper",
+                "elementOrder": 15,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1908,
+                "element": "Paint to doors",
+                "elementOrder": 5,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1909,
+                "element": "Paint to architraves",
+                "elementOrder": 6,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1944,
+                "element": "Paint to carpentry",
+                "elementOrder": 9,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1979,
+                "element": "Paint to radiator",
+                "elementOrder": 10,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1983,
+                "element": "Paint to soffits and fascias",
+                "elementOrder": 11,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1920,
+                "element": "Paint to windows",
+                "elementOrder": 7,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1666,
+                "element": "Paint to skirting",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1986,
+                "element": "Subcontractor",
+                "elementOrder": 13,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "scheduleareaIds": [],
+        "stage": "Fixtures and fittings",
+        "stageOrder": 24,
+        "elements": [
+            {
+                "id": 2070,
+                "element": "Pricing clarifications",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1742,
+                "element": "Shower screen",
+                "elementOrder": 4,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1950,
+                "element": "Curtains, blinds and drapes",
+                "elementOrder": 5,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1743,
+                "element": "Mirror",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2095,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1874,
+                "element": "Furniture, fixtures & equipment",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2019,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    },
+    {
+        "id": 493,
+        "scheduleareaIds": [],
+        "stage": "External works",
+        "stageOrder": 25,
+        "elements": [
+            {
+                "id": 1960,
+                "element": "Fencing",
+                "elementOrder": 12,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1961,
+                "element": "External Storage",
+                "elementOrder": 8,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1867,
+                "element": "Garden Furniture",
+                "elementOrder": 6,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2028,
+                "element": "Requested Task",
+                "elementOrder": 100,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1997,
+                "element": "External Walls",
+                "elementOrder": 13,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2093,
+                "element": "Stairs and balustrade",
+                "elementOrder": 14,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1998,
+                "element": "Wired Appliances",
+                "elementOrder": 9,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2094,
+                "element": "Decking and framing",
+                "elementOrder": 15,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1872,
+                "element": "Soft Landscaping",
+                "elementOrder": 5,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2000,
+                "element": "Provisional Sum",
+                "elementOrder": 101,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1873,
+                "element": "Hard Landscaping",
+                "elementOrder": 4,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2005,
+                "element": "Garden Feature",
+                "elementOrder": 11,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2072,
+                "element": "Pricing clarifications",
+                "elementOrder": 1,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 2073,
+                "element": "Demolitions",
+                "elementOrder": 2,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1982,
+                "element": "External Services",
+                "elementOrder": 7,
+                "archive": false,
+                "scheduleareaIds": []
+            },
+            {
+                "id": 1985,
+                "element": "Ground Preparation",
+                "elementOrder": 3,
+                "archive": false,
+                "scheduleareaIds": []
+            }
+        ]
+    }
+]

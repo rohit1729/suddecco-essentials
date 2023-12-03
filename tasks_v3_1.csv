@@ -1,0 +1,746 @@
+id,name,display_name,component_area_id,ratio,stage_id,stage_name,sub_stage_id,task_unit_id,task_unit_name,task_material_category_id,task_material_category_name
+8031,Acrylic shower tray (~1-2m2),Supply & Install Acrylic shower tray (~1-2m2),7,1.0,472,Plumbed appliances,1739,1,nr,418,Acrylic shower tray (~1-2m2)
+9874,Shower tray and waste,Supply & Install Shower tray and waste,7,1.0,472,Plumbed appliances,1739,1,nr,1705,Shower tray and waste
+9415,Shower tray feet,Supply & Install Shower tray feet,7,1.0,472,Plumbed appliances,1739,1,nr,204,Shower tray feet
+7961,Stone resin shower tray,Supply & Install Stone resin shower tray,7,1.0,472,Plumbed appliances,1739,1,nr,388,Stone resin shower tray
+8321,Wet room shower tray (~1-2m2),Supply & Install Wet room shower tray (~1-2m2),7,1.0,472,Plumbed appliances,1739,1,nr,400,Wet room shower tray (~1-2m2)
+10351,Allowance for BWIC / Builders Work in Connection with services for sprinkler system to each room,Supply & Install Allowance for BWIC / Builders Work in Connection with services for sprinkler system to each room,7,1.0,472,Plumbed appliances,2004,1,nr,1434,BWIC with services / Builders Work in Connection with services
+9157,Sprinkler system,Supply & Install Sprinkler system,7,1.0,472,Plumbed appliances,2004,35,item,246,Sprinkler system
+8650,Shower enclosure,Supply & Install Shower enclosure,7,,472,Plumbed appliances,1881,1,nr,342,Rectangular shower enclosure
+8084,Shower screen,Supply & Install Shower screen,7,1.0,472,Plumbed appliances,1881,1,nr,203,Shower screen
+9653,Access panel for bath side panel,Supply & Install Access panel for bath side panel,7,1.0,472,Plumbed appliances,1649,1,nr,1579,Access panel for bath side panel
+8503,Back to wall toilet / close coupled toilet,Supply & Install Back to wall toilet / close coupled toilet,7,,472,Plumbed appliances,1651,1,nr,46,Close coupled toilet
+8045,Bath,Supply & Install Bath,7,1.0,472,Plumbed appliances,1649,1,nr,17,Bath
+8499,Bath filler,Supply & Install Bath filler,7,,472,Plumbed appliances,1649,1,nr,903,Bath filler
+9427,Bath leg set,Supply & Install Bath leg set,7,1.0,472,Plumbed appliances,1649,1,nr,1461,Bath leg set
+9660,Bath panel frame kit,Supply & Install Bath panel frame kit,7,1.0,472,Plumbed appliances,1649,1,nr,1585,Bath panel frame kit
+9428,Bath side panel / bath panel,Supply & Install Bath side panel / bath panel,7,1.0,472,Plumbed appliances,1649,1,nr,1462,Bath side panel
+8493,Bath tap,Supply & Install Bath tap,7,,472,Plumbed appliances,1763,1,nr,18,Bath tap
+7895,Bath waste,Supply & Install Bath waste,7,1.0,472,Plumbed appliances,1764,1,nr,330,Bath waste
+9475,Bottle trap,Supply & Install Bottle trap,7,1.0,472,Plumbed appliances,1888,1,nr,1488,Bottle trap
+9201,Boxing to concealed cistern unit / concealed frame for wash basin,Supply & Install Boxing to concealed cistern unit / concealed frame for wash basin,7,1.0,472,Plumbed appliances,1655,1,nr,1336,Boxing to cistern / concealed cistern unit
+9171,Butler sink / belfast sink,Supply & Install Butler sink / belfast sink,7,1.0,472,Plumbed appliances,1655,1,nr,1313,Butler sink / belfast sink
+9408,Combination Toilet and Basin Unit,Supply & Install Combination Toilet and Basin Unit,7,1.0,472,Plumbed appliances,1651,1,nr,1447,Combination Toilet and Basin Unit
+9423,Concealed cistern,Supply & Install Concealed cistern,7,1.0,472,Plumbed appliances,1651,1,nr,1457,Concealed cistern
+9426,Concealed frame for washbasin / concealed frame for sink,Supply & Install Concealed frame for washbasin / concealed frame for sink,7,1.0,472,Plumbed appliances,1655,1,nr,1460,Concealed frame for washbasin / Concealed frame for sink
+9421,Concealed shower mixer / concealed bath mixer,Supply & Install Concealed shower mixer / concealed bath mixer,7,1.0,472,Plumbed appliances,1788,1,nr,1455,Concealed shower mixer
+9425,Concealed sink tap mixer / concealed basin tap mixer,Supply & Install Concealed sink tap mixer / concealed basin tap mixer,7,1.0,472,Plumbed appliances,1653,1,nr,1459,Concealed sink tap mixer / concealed basin tap mixer
+8491,Counter top sink / counter top basin,Supply & Install Counter top sink / counter top basin,7,,472,Plumbed appliances,1655,1,nr,656,Counter top sink
+9804,"Doc M Pack including toilet, washbasin, mixer, waste, grab rails, support rails, toilet roll holder, cistern, toilet seat & back support","Supply & Install Doc M Pack including toilet, washbasin, mixer, waste, grab rails, support rails, toilet roll holder, cistern, toilet seat & back support",7,1.0,472,Plumbed appliances,1652,1,nr,1649,Doc M Pack including sanitaryware
+10166,Electric shower,Supply & Install Electric shower,7,1.0,472,Plumbed appliances,1788,1,nr,1878,Electric shower
+8104,Exposed shower mixer and head,Supply & Install Exposed shower mixer and head,7,1.0,472,Plumbed appliances,1788,1,nr,347,Exposed shower mixer and head
+8906,External shower,Supply & Install External shower,7,1.0,472,Plumbed appliances,1788,1,nr,1123,External shower
+9351,External water tank,Supply & Install External water tank,7,1.0,472,Plumbed appliances,1859,1,nr,1414,External water tank
+10256,Fit out complete bathroom,Supply & Install Fit out complete bathroom,7,1.0,472,Plumbed appliances,1976,35,item,1610,Provisional Sum for Plumbed Appliances
+8504,Flush plate,Supply & Install Flush plate,7,,472,Plumbed appliances,1889,1,nr,658,Flush plate
+8616,Freestanding Bath,Supply & Install Freestanding Bath,7,,472,Plumbed appliances,1649,1,nr,715,Freestanding bath
+8523,Freestanding sink tap and mixer,Supply & Install Freestanding sink tap and mixer,7,,472,Plumbed appliances,1653,1,nr,703,Sink tap - freestanding
+8441,Hand shower / Shower handset,Supply & Install Hand shower / Shower handset,7,,472,Plumbed appliances,1788,1,nr,646,Hand shower
+9809,Instant hot water handwash unit,Supply & Install Instant hot water handwash unit,7,1.0,472,Plumbed appliances,1653,1,nr,1656,Instant hot water handwash unit
+8144,Integrated shower mixer and head,Supply & Install Integrated shower mixer and head,7,1.0,472,Plumbed appliances,1788,1,nr,481,"Integrated shower mixer and head, wall mounted"
+9805,Macerator pump,Supply & Install Macerator pump,7,1.0,472,Plumbed appliances,1651,1,nr,1650,Macerator pump
+10379,Mastic / sealant to WCs,Supply & Install Mastic / sealant to WCs,7,1.0,472,Plumbed appliances,2038,35,item,1981,Mastic / sealant to WCs
+9066,Mastic sealant,Supply & Install Mastic sealant,6,0.5,472,Plumbed appliances,2038,2,m,191,"Mastic / sealant to ensuites, bathrooms and shower rooms"
+10625,Negative head pump,Supply & Install Negative head pump,7,1.0,472,Plumbed appliances,1788,1,nr,2032,Shower pump
+10064,New mastic around bath tub,Supply & Install New mastic around bath tub,7,1.0,472,Plumbed appliances,2038,2,m,1833,Mastic per metre
+10609,Pedestal basin,Supply & Install Pedestal basin,7,1.0,472,Plumbed appliances,1655,1,nr,363,Pedestal sink
+9413,Pedestal bidet,Supply & Install Pedestal bidet,7,1.0,472,Plumbed appliances,1651,1,nr,1450,Pedestal bidet
+8488,Pedestal sink,Supply & Install Pedestal sink,7,,472,Plumbed appliances,1655,1,nr,363,Pedestal sink
+8496,Pedestal toilet,Supply & Install Pedestal toilet,7,,472,Plumbed appliances,1651,1,nr,364,Pedestal toilet
+9275,Plumber Subcontractor quotation,Supply & Install Plumber Subcontractor quotation,7,1.0,472,Plumbed appliances,1968,35,item,1373,Plumber subcontractor quotation
+10381,Pricing clarifications - Plumbed appliances,Supply & Install Pricing clarifications - Plumbed appliances,7,1.0,472,Plumbed appliances,2084,35,item,1983,Pricing clarifications - Plumbed appliances
+9337,Provisional Sum for Plumbed Appliances,Supply & Install Provisional Sum for Plumbed Appliances,7,1.0,472,Plumbed appliances,1976,35,item,1610,Provisional Sum for Plumbed Appliances
+10899,Relace existing ball valve fittings to basin tap,Supply & Install Relace existing ball valve fittings to basin tap,7,1.0,472,Plumbed appliances,1653,7,nr,,
+10898,Relace existing ball valve fittings to basin tap,Supply & Install Relace existing ball valve fittings to basin tap,7,1.0,472,Plumbed appliances,1653,7,nr,,
+10797,Relocate water tank,Supply & Install Relocate water tank,7,1.0,472,Plumbed appliances,1859,35,item,,
+8915,Repair water feature,Supply & Install Repair water feature,7,1.0,472,Plumbed appliances,1959,1,nr,1131,Repair water feature
+10940,Scrape and replace mastic sealant,Supply & Install Scrape and replace mastic sealant,10,1.0,472,Plumbed appliances,2038,2,m,191,"Mastic / sealant to ensuites, bathrooms and shower rooms"
+8495,Sink trap,Supply & Install Sink trap,7,,472,Plumbed appliances,1888,1,nr,657,Sink trap
+10491,Water meter,Supply & Install Water meter,7,1.0,472,Plumbed appliances,2091,1,nr,2033,Water meter
+9126,	 600mm wide by 1200mm deep trench foundations,Supply & Install 	 600mm wide by 1200mm deep trench foundations,6,1.0,478,Foundations and substructure,1648,2,m,1279,"	Shuttering, concrete and mesh to 600mm wide by 1200mm deep trench foundations - 10m-20 run"
+9125,	 Hardwood casement window (3-4m2),Supply & Install 	 Hardwood casement window (3-4m2),7,1.0,483,External windows and doors,1664,1,nr,1278,Hardwood casement window (3-4m2)
+9084,	 Plaster ceiling rose; 300-450mm diameter,Supply & Install 	 Plaster ceiling rose; 300-450mm diameter,7,1.0,501,Ceiling preparation and finishes,1916,1,nr,1257,Plaster ceiling rose; 300-450mm diameter
+8938,	Reposition existing alarm system,Supply & Install 	Reposition existing alarm system,7,1.0,479,Wired appliances,1753,1,nr,6,Alarm control pad
+10876, Acrow propping (650mm spacing) to support wall when removing chimney breast,Supply & Install  Acrow propping (650mm spacing) to support wall when removing chimney breast,7,1.0,471,Preliminaries,1954,1,nr,849,"Supply and install temporary propping  (for wall opening or wall demo, 650mm spacing, rent / 1 week) "
+9895, Concrete edging,Supply & Install  Concrete edging,6,1.0,493,External works,1873,2,m,1723,Border edging / pavement edging
+10378, Mastic / sealant to kitchens,Supply & Install  Mastic / sealant to kitchens,7,1.0,469,"Units, worktops and kitchen appliances",2082,35,item,1982,Mastic / sealant to kitchens
+10548,"1000mm wide by 1000mm deep footing, cast in underpinning sequence","Supply & Install 1000mm wide by 1000mm deep footing, cast in underpinning sequence",7,1.0,478,Foundations and substructure,1648,2,m,2053,"Shuttering, concrete and mesh to 1000mm wide by 1000mm deep trench foundations"
+9776,"1000mm wide x 1000mm deep trench footing, 1.5m BGL","Supply & Install 1000mm wide x 1000mm deep trench footing, 1.5m BGL",7,1.0,478,Foundations and substructure,1648,2,m,1638,"Shuttering, concrete and mesh to 1000mm wide by 1500mm deep trench foundations "
+9003,1000x1000mm wide by 1000mm deep pad foundations,Supply & Install 1000x1000mm wide by 1000mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1198,"Shuttering, concrete and mesh to 1000x1000mm wide by 1000mm deep pad foundations"
+9916,1000x1000mm wide by 1200mm deep pad foundations,Supply & Install 1000x1000mm wide by 1200mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,35,item,1735,"Shuttering, concrete and mesh to 1000x1000mm wide by 1200mm deep pad foundations"
+9592,1000x1000mm wide by 1250mm deep pad foundations,Supply & Install 1000x1000mm wide by 1250mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1536,"Shuttering, concrete and mesh to 1000x1000mm wide by 1250mm deep pad foundations"
+9917,1000x1000mm wide by 1300mm deep pad foundations,Supply & Install 1000x1000mm wide by 1300mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,35,item,1736,"Shuttering, concrete and mesh to 1000x1000mm wide by 1300mm deep pad foundations"
+8982,1000x1000mm wide by 400mm deep pad foundation,Supply & Install 1000x1000mm wide by 400mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,1,nr,1199,"Shuttering, concrete and mesh to 1000x1000mm wide by 400mm deep pad foundation"
+9006,1000x1000mm wide by 450mm deep pad foundation,Supply & Install 1000x1000mm wide by 450mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,1,nr,1204,"Shuttering, concrete and mesh to 1000x1000mm wide by 450mm deep pad foundation"
+9301,1000x1000mm wide by 500mm deep pad foundation,Supply & Install 1000x1000mm wide by 500mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,1,nr,1389,"Shuttering, concrete and mesh to 1000x1000mm wide by 500mm deep pad foundation"
+8981,1000x1000mm wide by 600mm deep pad foundation,Supply & Install 1000x1000mm wide by 600mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,1,nr,1096,"Shuttering, concrete and mesh to 1000x1000mm wide by 600mm deep pad foundation"
+8216,1000x1000mm wide by 750mm deep pad foundations,Supply & Install 1000x1000mm wide by 750mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,800,"Shuttering, concrete and mesh to 1000x1000mm wide by 750mm deep pad foundations"
+10263,1000x500mm wide by 1000mm deep pad foundation,Supply & Install 1000x500mm wide by 1000mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,35,item,1389,"Shuttering, concrete and mesh to 1000x1000mm wide by 500mm deep pad foundation"
+9493,1000x800mm wide by 750mm deep pad foundations,Supply & Install 1000x800mm wide by 750mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,35,item,1500,"Shuttering, concrete and mesh to 1000x800mm wide by 750mm deep pad foundations"
+8018,100mm Concrete block wall; external wall,Supply & Install 100mm Concrete block wall; external wall,1,1.0,489,External wall structure and lining,1707,4,m2,405,100mm blocks
+10299,100mm Concrete block wall; external wall; plinth,Supply & Install 100mm Concrete block wall; external wall; plinth,7,1.0,489,External wall structure and lining,1707,4,m2,405,100mm blocks
+9350,100mm Concrete block wall; gable ends,Supply & Install 100mm Concrete block wall; gable ends,1,1.0,489,External wall structure and lining,1707,4,m2,405,100mm blocks
+9075,100mm concrete block wall; internal wall,Supply & Install 100mm concrete block wall; internal wall,1,1.0,503,Internal wall structure and lining,1709,4,m2,405,100mm blocks
+10137,100mm concrete block wall; party wall,Supply & Install 100mm concrete block wall; party wall,7,1.0,503,Internal wall structure and lining,2044,4,m2,405,100mm blocks
+9274,100mm ready mix concrete slab,Supply & Install 100mm ready mix concrete slab,2,1.0,467,Floor structure and lining,1687,4,m2,1372,100mm concrete slab
+9761,1100 x 750 x 1000mm deep pad foundation,Supply & Install 1100 x 750 x 1000mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,35,item,1634,"Shuttering, concrete and mesh to 1100 x 750 x 1000mm deep pad foundation"
+10227,1100mm wide by 600mm deep trench foundations,Supply & Install 1100mm wide by 600mm deep trench foundations,7,1.0,478,Foundations and substructure,1648,2,m,1909,"Shuttering, concrete and mesh to 1100mm wide by 600mm deep trench foundations - 4-10m run"
+8406,1100x1100mm wide by 1000mm deep pad foundations,Supply & Install 1100x1100mm wide by 1000mm deep pad foundations,7,,478,Foundations and substructure,1648,1,nr,627,"Shuttering, concrete and mesh to 1100x1100mm wide by 1000mm deep pad foundations"
+10361,1100x1100mm wide by 600mm deep pad foundations,Supply & Install 1100x1100mm wide by 600mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,35,item,1970,"Shuttering, concrete and mesh to 1100x1100mm wide by 600mm deep pad foundations"
+10444,110mm uPVC rainwater pipe with gravel fill,Supply & Install 110mm uPVC rainwater pipe with gravel fill,7,1.0,485,Drainage and pipework,1646,2,m,1803,uPVC drainage pipes
+8959,1200mm wide x 1600mm deep trench foundations,Supply & Install 1200mm wide x 1600mm deep trench foundations,6,1.0,478,Foundations and substructure,1648,2,m,1156,"Shuttering, concrete and mesh to 1200mm wide by 1600mm deep trench foundations "
+10741,1200x1000mm wide by 500mm deep pad foundations,Supply & Install 1200x1000mm wide by 500mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,35,item,2157,"Shuttering, concrete and mesh to 1200x1000mm wide by 500mm deep pad foundations"
+9004,1200x1200mm wide by 1000mm deep pad foundations,Supply & Install 1200x1200mm wide by 1000mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1202,"Shuttering, concrete and mesh to 1200x1200mm by 1000mm deep pad foundations"
+8924,1200x1200mm wide by 1200mm deep pad foundations,Supply & Install 1200x1200mm wide by 1200mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1200,"Shuttering, concrete and mesh to 1200x1200mm by 1200mm deep pad foundations"
+9225,1200x1200mm wide by 1750mm deep pad foundations,Supply & Install 1200x1200mm wide by 1750mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1350,"Shuttering, concrete and mesh to 1200x1200mm wide by 1750mm deep pad foundations"
+10068,1200x1200mm wide by 400mm deep pad foundations,Supply & Install 1200x1200mm wide by 400mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1836,1200x1200mm wide by 400mm deep pad foundations
+10226,1200x1200mm wide by 600mm deep pad foundations,Supply & Install 1200x1200mm wide by 600mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,35,item,1907,"Shuttering, concrete and mesh to 1200x1200mm by 600mm deep pad foundations"
+10684,1200x1700mm wide by 550mm deep pad foundations,Supply & Install 1200x1700mm wide by 550mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,2123,1200x1700mm wide by 550mm deep pad foundations
+10869,1200x900mm wide by 750mm deep pad foundation,Supply & Install 1200x900mm wide by 750mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,1,nr,2225,"Shuttering, concrete and mesh to 1200x900mm wide by 750mm deep pad foundations"
+10709,"1250x1250mm wide by 450mm deep pad foundation, 1000mm deep excavation, excl. excavation","Supply & Install 1250x1250mm wide by 450mm deep pad foundation, 1000mm deep excavation, excl. excavation",7,1.0,478,Foundations and substructure,1648,1,nr,2139,"1250x1250mm wide by 450mm deep pad foundation, 1000mm deep excavation"
+10685,1250x1500mm wide by 800mm deep pad foundations,Supply & Install 1250x1500mm wide by 800mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,2124,1250x1500mm wide by 800mm deep pad foundations
+9353,125mm ready mix concrete slab,Supply & Install 125mm ready mix concrete slab,2,1.0,467,Floor structure and lining,1687,4,m2,1415,125mm concrete slab
+9760,1300 x 1700 x 1000mm deep pad foundation,Supply & Install 1300 x 1700 x 1000mm deep pad foundation,7,1.0,478,Foundations and substructure,1648,35,item,1633,"Shuttering, concrete and mesh to 1300 x 1700 x 1000mm deep pad foundation"
+9390,1400mm wide by 300mm deep strip foundation,Supply & Install 1400mm wide by 300mm deep strip foundation,7,1.0,478,Foundations and substructure,1648,2,m,1437,1400mm wide by 300mm deep strip foundations
+9297,1400x1400mm wide by 1000mm concrete pad foundation,Supply & Install 1400x1400mm wide by 1000mm concrete pad foundation,7,1.0,478,Foundations and substructure,1648,35,item,1386,"Shuttering, concrete and mesh to 1400 x 1400 x 1000mm concrete pad foundation"
+10568,"1400x1400mm wide by 300mm deep pad foundations, 1000mm deep excavation","Supply & Install 1400x1400mm wide by 300mm deep pad foundations, 1000mm deep excavation",7,1.0,478,Foundations and substructure,1648,1,nr,2058,"1400x1400mm wide by 300mm deep pad foundations, 1000mm deep excavation"
+9468,1400x1400mm wide by 600mm deep pad foundations,Supply & Install 1400x1400mm wide by 600mm deep pad foundations,7,1.0,478,Foundations and substructure,1648,1,nr,1481,"Shuttering, concrete and mesh to 1400x1400mm by 600mm deep pad foundations"
+8020,140mm Concrete block wall; external wall,Supply & Install 140mm Concrete block wall; external wall,1,1.0,489,External wall structure and lining,1707,4,m2,407,140mm blocks
+9177,140mm Concrete block wall; internal wall,Supply & Install 140mm Concrete block wall; internal wall,7,1.0,503,Internal wall structure and lining,1709,4,m2,407,140mm blocks
+8611,Toilet seat,Supply & Install Toilet seat,7,,472,Plumbed appliances,1651,35,item,939,Toilet seat
+10626,Wall hung bidet,Supply & Install Wall hung bidet,7,1.0,472,Plumbed appliances,1651,1,nr,2085,Wall hung bidet
+9870,"Wall hung bidet, cistern frame and flush plate","Supply & Install Wall hung bidet, cistern frame and flush plate",7,1.0,472,Plumbed appliances,1651,1,nr,1701,"Wall hung bidet, cistern frame and flush plate"
+8502,Wall hung toilet,Supply & Install Wall hung toilet,7,,472,Plumbed appliances,1651,1,nr,278,Wall hung toilet
+9871,"Wall hung toilet, cistern frame and flush plate","Supply & Install Wall hung toilet, cistern frame and flush plate",7,1.0,472,Plumbed appliances,1651,1,nr,1702,"Wall Hung Toilet, Cistern Frame and Flush Plate"
+9659,WC Gasket,Supply & Install WC Gasket,7,1.0,472,Plumbed appliances,1651,1,nr,1584,WC Gasket
+9624,Supply of sanitaryware,Supply & Install Supply of sanitaryware,7,1.0,472,Plumbed appliances,1652,1,nr,1562,Supply of sanitaryware
+9937,Traditional pair basin taps,Supply & Install Traditional pair basin taps,7,1.0,472,Plumbed appliances,1653,1,nr,1748,Traditional pair basin tap
+9424,Wall mounted sink tap / wall mounted basin tap (excludes mixer element),Supply & Install Wall mounted sink tap / wall mounted basin tap (excludes mixer element),7,1.0,472,Plumbed appliances,1653,1,nr,1458,Wall mounted sink tap / wall mounted basin tap (excluding mixer element)
+8522,Wall mounted sink tap and mixer,Supply & Install Wall mounted sink tap and mixer,7,,472,Plumbed appliances,1653,1,nr,221,Sink tap - wall mounted
+9873,Vanity unit with basin,Supply & Install Vanity unit with basin,7,1.0,472,Plumbed appliances,1655,1,nr,1704,Vanity unit with basin
+10610,Wall hung basin,Supply & Install Wall hung basin,7,1.0,472,Plumbed appliances,1655,1,nr,655,Wall hung sink
+8489,Wall hung sink,Supply & Install Wall hung sink,7,,472,Plumbed appliances,1655,1,nr,655,Wall hung sink
+8284,Tap,Supply & Install Tap,7,1.0,472,Plumbed appliances,1849,1,nr,261,Tap
+6070,Shower head,Supply & Install Shower head,7,,472,Plumbed appliances,1788,1,nr,200,Shower head
+9420,Shower holder / shower arm,Supply & Install Shower holder / shower arm,7,1.0,472,Plumbed appliances,1788,1,nr,1454,Shower holder
+9418,Shower hose,Supply & Install Shower hose,7,1.0,472,Plumbed appliances,1788,1,nr,1453,Shower hose
+9417,Shower outlet elbow,Supply & Install Shower outlet elbow,7,1.0,472,Plumbed appliances,1788,1,nr,1452,Shower outlet elbow
+10489,Shower pump,Supply & Install Shower pump,7,1.0,472,Plumbed appliances,1788,1,nr,2032,Shower pump
+8209,Wall mounted shower mixer,Supply & Install Wall mounted shower mixer,7,1.0,472,Plumbed appliances,1788,1,nr,201,Wall mounted shower mixer
+9422,Wall mounted shower/bath mixer tap / trim (excludes mixer element),Supply & Install Wall mounted shower/bath mixer tap / trim (excludes mixer element),7,1.0,472,Plumbed appliances,1788,1,nr,1456,Wall mounted shower mixer tap / trim (excludes mixer element)
+8211,Shower waste (acrylic tray),Supply & Install Shower waste (acrylic tray),7,1.0,472,Plumbed appliances,1789,1,nr,525,Shower waste (acrylic tray)
+8615,Shower waste (wet room tray),Supply & Install Shower waste (wet room tray),7,,472,Plumbed appliances,1789,1,nr,375,Shower waste (wet room)
+10458,Waste water heat recovery system,Supply & Install Waste water heat recovery system,7,1.0,472,Plumbed appliances,1789,1,nr,2021,Waste water heat recovery system
+8492,Sink waste,Supply & Install Sink waste,7,,472,Plumbed appliances,1790,1,nr,380,Sink waste
+8318,Water tank,Supply & Install Water tank,7,1.0,472,Plumbed appliances,1859,1,nr,600,Water tank
+10036,Water tank; installation kit fittings for compliance,Supply & Install Water tank; installation kit fittings for compliance,7,1.0,472,Plumbed appliances,1859,1,nr,1815,Water tank; installation kit fittings for compliance
+10118,Alarm sounder,Supply & Install Alarm sounder,7,1.0,479,Wired appliances,1733,35,item,107,Fire alarm
+10282,Call Point,Supply & Install Call Point,7,1.0,479,Wired appliances,1733,7,nr,107,Fire alarm
+9457,Carbon dioxide monitor,Supply & Install Carbon dioxide monitor,7,1.0,479,Wired appliances,1733,31,point,1478,Carbon dioxide monitor
+9458,Carbon monoxide detector,Supply & Install Carbon monoxide detector,7,1.0,479,Wired appliances,1733,31,point,1479,Carbon monoxide detector
+10693,Fire alarm certificate,Supply & Install Fire alarm certificate,7,1.0,479,Wired appliances,1733,35,item,2129,Fire alarm certificate
+9150,Fire alarm system,Supply & Install Fire alarm system,7,1.0,479,Wired appliances,1733,1,nr,107,Fire alarm
+10283,Fire exit signage,Supply & Install Fire exit signage,7,1.0,479,Wired appliances,1733,1,nr,1923,Fire exit signage
+8133,Heat detector,Supply & Install Heat detector,7,1.0,479,Wired appliances,1733,31,point,473,Heat detector
+8232,Smoke detector,Supply & Install Smoke detector,7,1.0,479,Wired appliances,1733,31,point,231,Smoke detector
+8828,Coaxial RG6 Cable TV wiring with 1 no. double socket,Supply & Install Coaxial RG6 Cable TV wiring with 1 no. double socket,7,1.0,479,Wired appliances,1735,1,nr,1054,Coaxial RG6 Cable TV wiring with 1 no. double socket
+8076,Data point / Ethernet socket,Supply & Install Data point / Ethernet socket,7,1.0,479,Wired appliances,1735,31,point,64,Data point
+10000,Internet cabling installation / data network installation,Supply & Install Internet cabling installation / data network installation,7,1.0,479,Wired appliances,1735,2,m,1793,Data network installation
+10402,Telephone socket,Supply & Install Telephone socket,7,1.0,479,Wired appliances,1735,31,point,1994,Telephone socket
+9152,Waiting room doctors call system including call points,Supply & Install Waiting room doctors call system including call points,7,1.0,479,Wired appliances,1735,35,item,1296,Waiting room doctors call system
+10323,Pricing clarifications - Wired Appliances,Supply & Install Pricing clarifications - Wired Appliances,7,1.0,479,Wired appliances,2057,35,item,1944,Pricing clarifications - Wired Appliances
+9383,Allowance for BWIC / Builders Work in Connection with services for electrical installation,Supply & Install Allowance for BWIC / Builders Work in Connection with services for electrical installation,7,1.0,479,Wired appliances,1965,31,point,1434,BWIC with services / Builders Work in Connection with services
+9151,Ceiling mounted speakers / Wall mounted speakers,Supply & Install Ceiling mounted speakers / Wall mounted speakers,7,1.0,479,Wired appliances,1965,1,nr,1295,Ceiling mounted speakers
+10197,Chase chanel in floor,Supply & Install Chase chanel in floor,7,1.0,479,Wired appliances,1965,2,m,1896,Conduit and cable
+9439,Electric door operation for garage doors,Supply & Install Electric door operation for garage doors,7,1.0,479,Wired appliances,1965,31,point,1471,Garage door operators
+10713,Electrical installation - per point,Supply & Install Electrical installation - per point,7,1.0,479,Wired appliances,1965,1,nr,94,Electrical point
+9584,Electrical supply for new external water feature pump,Supply & Install Electrical supply for new external water feature pump,7,1.0,479,Wired appliances,1965,1,nr,1533,Electrical supply for new external water feature pump
+9097,First fix electrics,Supply & Install First fix electrics,7,1.0,479,Wired appliances,1965,31,point,94,Electrical point
+10696,Liaison with solar panel contractor,Supply & Install Liaison with solar panel contractor,7,1.0,479,Wired appliances,1965,35,item,2132,Liaison with solar panel contractor
+9588,Lighting supply to joinery,Supply & Install Lighting supply to joinery,7,1.0,479,Wired appliances,1965,1,nr,1535,Lighting supply to joinery
+9506,Power supply to rooflight,Supply & Install Power supply to rooflight,7,1.0,479,Wired appliances,1965,1,nr,1503,Power supply to electric opening rooflight
+9162,Solar panels fixed to flat roof,Supply & Install Solar panels fixed to flat roof,7,1.0,479,Wired appliances,1965,37,kWp,1305,Solar panels fixed to flat roof
+9163,Solar panels fixed to pitched roof,Supply & Install Solar panels fixed to pitched roof,7,1.0,479,Wired appliances,1965,37,kWp,1306,Solar panels fixed to pitched roof
+9973,Wireless Burglar Alarm,Supply & Install Wireless Burglar Alarm,7,1.0,479,Wired appliances,1965,35,item,1772,Burglar Alarm
+9276,Electrical Subcontractor quotation,Supply & Install Electrical Subcontractor quotation,7,1.0,479,Wired appliances,1969,35,item,1374,Electrical subcontractor Quotation
+8063,CCTV system,Supply & Install CCTV system,7,1.0,479,Wired appliances,1753,31,point,439,CCTV system
+9718,Digital Lock System,Supply & Install Digital Lock System,7,1.0,479,Wired appliances,1753,35,item,1619,Digital Lock System
+8899,Entry phone system,Supply & Install Entry phone system,7,1.0,479,Wired appliances,1753,1,nr,1114,Entry phone system
+9145,Green and red light system,Supply & Install Green and red light system,7,1.0,479,Wired appliances,1753,1,nr,1292,Green and red light system
+8647,Movement sensor,Supply & Install Movement sensor,7,,479,Wired appliances,1753,31,point,159,PIR detector
+8207,Security system,Supply & Install Security system,7,1.0,479,Wired appliances,1753,35,item,194,Security system
+10370,Client Provisional Sum for External Light Fittings,Supply & Install Client Provisional Sum for External Light Fittings,7,1.0,479,Wired appliances,1977,35,item,,
+10371,Client Provisional Sum for Internal Pendant Lights,Supply & Install Client Provisional Sum for Internal Pendant Lights,7,1.0,479,Wired appliances,1977,35,item,,
+10826,Provisional sum for electrical installation,Supply & Install Provisional sum for electrical installation,7,1.0,479,Wired appliances,1977,35,item,,
+10524,Provisional sum for lighting,Supply & Install Provisional sum for lighting,7,1.0,479,Wired appliances,1977,35,item,2045,Provisional sum for lighting
+9338,Provisional Sum for Wired Appliances,Supply & Install Provisional Sum for Wired Appliances,7,1.0,479,Wired appliances,1977,35,item,1762,Provisional Sum for Wired Appliances
+9410,Acoustic putty pads,Supply & Install Acoustic putty pads,7,1.0,479,Wired appliances,1722,1,nr,1448,Acoustic putty pads
+7374,Double power socket,Supply & Install Double power socket,7,1.0,479,Wired appliances,1722,31,point,81,Double power socket
+9606,Double power socket with USB,Supply & Install Double power socket with USB,7,1.0,479,Wired appliances,1722,31,point,81,Double power socket
+8908,Electric car charging point,Supply & Install Electric car charging point,7,1.0,479,Wired appliances,1722,1,nr,1125,Electric car charging point
+10831,Electric shower connection,Supply & Install Electric shower connection,7,1.0,479,Wired appliances,1722,1,nr,112,Fused spur
+10044,Floor socket / Floorbox,Supply & Install Floor socket / Floorbox,7,1.0,479,Wired appliances,1722,1,nr,1820,Floor socket
+9643,Lamp socket,Supply & Install Lamp socket,7,1.0,479,Wired appliances,1722,1,nr,1575,Lamp socket
+8911,Replacing socket faceplate / replace socket faceplate,Supply & Install Replacing socket faceplate / replace socket faceplate,7,1.0,479,Wired appliances,1722,1,nr,1269,Socket faceplate
+8208,Shaver socket,Supply & Install Shaver socket,7,1.0,479,Wired appliances,1722,31,point,198,Shaver socket
+8180,Single power socket,Supply & Install Single power socket,7,1.0,479,Wired appliances,1722,31,point,218,Single power socket
+9995,Toothbrush charger socket,Supply & Install Toothbrush charger socket,7,1.0,479,Wired appliances,1722,1,nr,1788,Toothbrush charger socket
+9289,Triple power socket,Supply & Install Triple power socket,7,1.0,479,Wired appliances,1722,31,point,1384,Triple power socket
+9720,Projector and screen,Supply & Install Projector and screen,7,1.0,479,Wired appliances,1850,1,nr,1620,Projector
+9142,Television / TV Screen,Supply & Install Television / TV Screen,7,1.0,479,Wired appliances,1850,1,nr,1289,Television / TV
+9565,TV aerial,Supply & Install TV aerial,7,1.0,479,Wired appliances,1850,31,point,1527,TV aerial
+8294,TV outlet (excluding aerial),Supply & Install TV outlet (excluding aerial),7,1.0,479,Wired appliances,1850,31,point,288,TV outlet
+9480,Aluminium Channel for LED light strips,Supply & Install Aluminium Channel for LED light strips,7,1.0,479,Wired appliances,1723,2,m,1493,Aluminium Channel
+5735,Ceiling light / pendant light,Supply & Install Ceiling light / pendant light,7,,479,Wired appliances,1723,7,nr,158,Pendant light
+9146,Ceiling mounted surgical LED light,Supply & Install Ceiling mounted surgical LED light,7,1.0,479,Wired appliances,1723,1,nr,1293,Ceiling mounted light
+8966,Chandelier light,Supply & Install Chandelier light,7,1.0,479,Wired appliances,1723,1,nr,1162,Chandelier light
+7378,Downlight,Supply & Install Downlight,7,1.0,479,Wired appliances,1723,31,point,83,Downlight
+9810,Emergency lighting,Supply & Install Emergency lighting,7,1.0,479,Wired appliances,1723,31,point,1657,Emergency lighting
+10487,Fire hoods for downlights / Firehoods for downlights,Supply & Install Fire hoods for downlights / Firehoods for downlights,7,1.0,479,Wired appliances,1723,1,nr,2030,Fire hoods for downlights
+10722,LED light trough,Supply & Install LED light trough,7,1.0,479,Wired appliances,1723,2,m,2147,LED light trough
+9996,LED strip lights,Supply & Install LED strip lights,7,1.0,479,Wired appliances,1723,2,m,548,Strip lights
+8426,Linear light,Supply & Install Linear light,7,,479,Wired appliances,1723,1,nr,639,Fluorescent Linear light / Fluorescent Tube light
+8889,Negotiated discount,Supply & Install Negotiated discount,7,1.0,479,Wired appliances,1723,1,nr,,
+10248,Spotlight / spot light,Supply & Install Spotlight / spot light,7,1.0,479,Wired appliances,1723,1,nr,1915,Spotlight
+8248,Strip lights,Supply & Install Strip lights,7,1.0,479,Wired appliances,1723,2,m,548,Strip lights
+10284,Track lighting,Supply & Install Track lighting,7,1.0,479,Wired appliances,1723,1,nr,1067,Track Lighting
+8857,Actuator for blind/curtain automation,Supply & Install Actuator for blind/curtain automation,7,1.0,479,Wired appliances,1724,1,nr,1085,Actuator for blind/curtain automation
+9841,Cooker switch / hob switch incl. 5m run for new cable + new circuit,Cooker switch / hob switch incl. 5m run for new cable + new circuit,7,1.0,479,Wired appliances,1724,1,nr,1681,Cooker switch / hob switch
+8096,Electrical fitting,Supply & Install Electrical fitting,7,1.0,479,Wired appliances,1724,31,point,450,Electrical fitting
+8116,Fused spur,Supply & Install Fused spur,7,1.0,479,Wired appliances,1724,31,point,112,Fused spur
+9774,Grid switch for appliances,Supply & Install Grid switch for appliances,7,1.0,479,Wired appliances,1724,31,point,1636,Grid switch for appliances
+8822,Isolator switch,Supply & Install Isolator switch,7,1.0,479,Wired appliances,1724,1,nr,1048,Isolator switch
+8149,Light switch - 1 gang,Supply & Install Light switch - 1 gang,7,1.0,479,Wired appliances,1724,31,point,138,Light switch - single
+9019,Light switch - 2 gang,Supply & Install Light switch - 2 gang,7,1.0,479,Wired appliances,1724,31,point,80,Light switch - 2 gang
+9020,LIght switch - 3 gang,Supply & Install LIght switch - 3 gang,7,1.0,479,Wired appliances,1724,31,point,1216,Light switch - 3 gang
+9021,Light switch - 4 gang,Supply & Install Light switch - 4 gang,7,1.0,479,Wired appliances,1724,31,point,1217,Light switch - 4 gang
+10045,Light switch - 6 gang,Supply & Install Light switch - 6 gang,7,1.0,479,Wired appliances,1724,1,nr,1821,Light switch - 6 gang
+9022,Light switch - dimmer,Supply & Install Light switch - dimmer,7,1.0,479,Wired appliances,1724,31,point,1218,Light switch - dimmer
+10641,Multi gang grid switch,Supply & Install Multi gang grid switch,7,1.0,479,Wired appliances,1724,39,Gang,2094,Multi gang grid switch
+9685,PIR light switch,Supply & Install PIR light switch,7,1.0,479,Wired appliances,1724,1,nr,138,Light switch - single
+9808,Pull cord light switch,Supply & Install Pull cord light switch,7,1.0,479,Wired appliances,1724,1,nr,1655,Pull cord light switch
+9107,Replacing switch faceplate / replace switch faceplate,Supply & Install Replacing switch faceplate / replace switch faceplate,7,1.0,479,Wired appliances,1724,1,nr,1270,Switch faceplate
+8449,Roof window opening switch,Supply & Install Roof window opening switch,7,,479,Wired appliances,1724,1,nr,653,Roof window switch
+10359,Unswitched fused spur,Supply & Install Unswitched fused spur,7,1.0,479,Wired appliances,1724,31,point,1968,Unswitched fused spur
+8726,Wine storage (temperature and humidity controlled),Supply & Install Wine storage (temperature and humidity controlled),7,1.0,479,Wired appliances,1725,1,nr,745,Wine storage
+10472,Cabling only for speakers,Supply & Install Cabling only for speakers,7,1.0,479,Wired appliances,2077,35,item,1896,Conduit and cable
+10372,Hand Dryer,Supply & Install Hand Dryer,7,1.0,479,Wired appliances,2077,1,nr,1977,Hand Dryer
+8081,Door bell,Supply & Install Door bell,7,1.0,479,Wired appliances,1729,31,point,72,Door bell
+8145,Intercom,Supply & Install Intercom,7,1.0,479,Wired appliances,1729,31,point,136,Intercom
+9938,Bulkhead light,Supply & Install Bulkhead light,7,1.0,479,Wired appliances,1730,1,nr,1749,Bulkhead light
+9992,Converter for LED lights,Supply & Install Converter for LED lights,7,1.0,479,Wired appliances,1730,1,nr,1786,Converter for LED lights
+8824,Employer supplied lighting,Supply & Install Employer supplied lighting,7,1.0,479,Wired appliances,1730,1,nr,1050,Employer supplied lighting
+10804,Pool lights,Supply & Install Pool lights,7,1.0,479,Wired appliances,1730,31,point,2186,Pool lights
+8967,Recessed light,Supply & Install Recessed light,7,1.0,479,Wired appliances,1730,2,m,217,Sidelight
+8313,Wall light,Supply & Install Wall light,7,1.0,479,Wired appliances,1730,31,point,597,Wall lights
+8923,Automatic opening vent,Supply & Install Automatic opening vent,7,1.0,479,Wired appliances,1732,1,nr,1134,Automatic opening vent
+8046,Bathroom extractor fan,Supply & Install Bathroom extractor fan,7,1.0,479,Wired appliances,1732,31,point,426,Bathroom extractor fan
+10535,Connect to and line chimney to extract,Supply & Install Connect to and line chimney to extract,7,1.0,479,Wired appliances,1732,1,nr,,
+10666,Ductwork and associated BWIC allowance for Bathroom extractor,Supply & Install Ductwork and associated BWIC allowance for Bathroom extractor,7,1.0,479,Wired appliances,1732,2,m,1261,Ductwork and associated BWIC allowance
+9098,Ductwork and associated BWIC allowance for Wired appliances,Supply & Install Ductwork and associated BWIC allowance for Wired appliances,7,1.0,479,Wired appliances,1732,2,m,1261,Ductwork and associated BWIC allowance
+8646,External floor light,Supply & Install External floor light,7,,479,Wired appliances,1731,1,nr,725,External floor light
+9099,Extractor fan,Supply & Install Extractor fan,7,1.0,479,Wired appliances,1732,1,nr,426,Bathroom extractor fan
+9807,Free standing work light,Supply & Install Free standing work light,7,1.0,479,Wired appliances,1731,1,nr,1654,Freestanding work light
+10364,"Formation of opening in wall/ceiling for vent, including supply and installation of vent","Supply & Install Formation of opening in wall/ceiling for vent, including supply and installation of vent",7,1.0,479,Wired appliances,1732,1,nr,741,Sundry items
+9879,PIV system,Supply & Install PIV system,7,1.0,479,Wired appliances,1732,1,nr,1710,PIV system
+10451,Pricing clarifications - Ceiling preparation and finishes,Supply & Install Pricing clarifications - Ceiling preparation and finishes,7,1.0,501,Ceiling preparation and finishes,2088,35,item,2019,Pricing clarifications - Ceiling preparation and finishes
+9085,Plaster ceiling rose; 450-600mm diameter,Supply & Install Plaster ceiling rose; 450-600mm diameter,7,1.0,501,Ceiling preparation and finishes,1916,1,nr,1258,Plaster ceiling rose; 450-600mm diameter
+9083,Plaster ceiling rose; up to 300mm diameter,Supply & Install Plaster ceiling rose; up to 300mm diameter,7,1.0,501,Ceiling preparation and finishes,1916,1,nr,40,Plaster ceiling rose; up to 300mm diameter
+8480,Plaster cornice / plaster coving,Supply & Install Plaster cornice / plaster coving,6,,501,Ceiling preparation and finishes,1916,2,m,56,Cornice
+8479,Repairs to existing cornice,Supply & Install Repairs to existing cornice,6,,501,Ceiling preparation and finishes,1916,2,m,894,Repairs to existing cornice
+9147,Softwood cladding to ceiling,Supply & Install Softwood cladding to ceiling,3,1.0,501,Ceiling preparation and finishes,1916,4,m2,541,Softwood cladding
+10279,Wire brush clean to roof trusses,Supply & Install Wire brush clean to roof trusses,7,1.0,501,Ceiling preparation and finishes,1916,4,m2,,
+10421,Bonding plaster to ceilings,Supply & Install Bonding plaster to ceilings,2,1.0,501,Ceiling preparation and finishes,1808,4,m2,27,Bonding Plaster
+8107,Fill and sand ceiling / prepare ceiling for paint,Supply & Install Fill and sand ceiling / prepare ceiling for paint,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,774,Fill and sand ceiling
+9371,Intumescent paint to joists,Supply & Install Intumescent paint to joists,7,1.0,501,Ceiling preparation and finishes,1808,2,m,1229,Intumescent coatings
+9260,Mist coat and two coats of paint to ceiling and cornice; underside of exposed pitched roof structure,Supply & Install Mist coat and two coats of paint to ceiling and cornice; underside of exposed pitched roof structure,3,1.0,501,Ceiling preparation and finishes,1806,4,m2,492,Mist coat and two coats of paint to ceiling
+9259,Mist coat and two coats of paint to ceiling; underside of exposed pitched roof structure,Supply & Install Mist coat and two coats of paint to ceiling; underside of exposed pitched roof structure,3,1.0,501,Ceiling preparation and finishes,1806,4,m2,492,Mist coat and two coats of paint to ceiling
+9691,Panelling to ceiling / cladding to ceiling,Supply & Install Panelling to ceiling / cladding to ceiling,3,1.0,501,Ceiling preparation and finishes,1806,4,m2,691,Panelling
+10420,Plaster mesh to ceilings,Supply & Install Plaster mesh to ceilings,2,1.0,501,Ceiling preparation and finishes,1808,4,m2,2006,Plaster mesh
+10907,Plaster patching to ceiling,Supply & Install Plaster patching to ceiling,7,1.0,501,Ceiling preparation and finishes,1806,4,m2,224,Skim
+8809,Polished/Venetian Plaster to ceiling,Supply & Install Polished/Venetian Plaster to ceiling,3,1.0,501,Ceiling preparation and finishes,1806,4,m2,1034,Polished Plaster/Venetian Plaster
+8972,Preparation work to ceiling,Supply & Install Preparation work to ceiling,7,1.0,501,Ceiling preparation and finishes,1808,4,m2,1167,Preparation work to ceiling
+10603,PVA sealer/bonding coat to ceilings,Supply & Install PVA sealer/bonding coat to ceilings,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,2077,PVA sealer
+10606,SBR sealer/bonding coat to ceilings,Supply & Install SBR sealer/bonding coat to ceilings,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,2078,SBR sealer
+10860,Scratch coat to ceilings,Supply & Install Scratch coat to ceilings,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,2074,Scratch coat to walls
+9257,Single coat of paint to ceiling; underside of exposed pitched roof structure,Supply & Install Single coat of paint to ceiling; underside of exposed pitched roof structure,3,1.0,501,Ceiling preparation and finishes,1806,4,m2,856,Single coat of paint
+8228,Skim to ceiling,Supply & Install Skim to ceiling,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,224,Skim
+10445,Skim to ceiling; underneath ceiling junction,Supply & Install Skim to ceiling; underneath ceiling junction,2,1.0,501,Ceiling preparation and finishes,1808,4,m2,224,Skim
+10288,"Skim to ceilings; clay plaster, undercoat and topcoat","Supply & Install Skim to ceilings; clay plaster, undercoat and topcoat",2,1.0,501,Ceiling preparation and finishes,1808,4,m2,1924,Skim; clay plaster; undercoat and topcoat
+9975,Tape and joint plasterboard,Supply & Install Tape and joint plasterboard,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,2165,Tape and joint plasterboard
+10863,Two coats of plaster to ceiling,Supply & Install Two coats of plaster to ceiling,3,1.0,501,Ceiling preparation and finishes,1808,4,m2,2224,Two coats of plaster
+10404,Pricing clarifications - Wall preparation and finishes,Supply & Install Pricing clarifications - Wall preparation and finishes,7,1.0,488,Wall preparation and finishes,2085,35,item,1996,Pricing clarifications - Wall preparation and finishes
+10772,Provisional Sum for Wall Finishes,Supply & Install Provisional Sum for Wall Finishes,7,1.0,488,Wall preparation and finishes,2086,35,item,2174,Provisional Sum for Wall Preparation and Finishes
+9412,Acoustic sealant to floor / ceiling junction,Supply & Install Acoustic sealant to floor / ceiling junction,7,1.0,488,Wall preparation and finishes,1855,2,m,1449,Acoustic sealant
+10088,Acrylic panels to wall,Supply & Install Acrylic panels to wall,1,1.0,488,Wall preparation and finishes,1917,4,m2,1847,Acrylic panels
+8518,Apply finish to timber wall cladding,Supply & Install Apply finish to timber wall cladding,7,,488,Wall preparation and finishes,1708,4,m2,521,Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring
+9404,Battens and counterbattens to wall,Supply & Install Battens and counterbattens to wall,7,1.0,488,Wall preparation and finishes,1708,4,m2,19,Battens
+8778,Bonding plaster to walls,Supply & Install Bonding plaster to walls,7,1.0,488,Wall preparation and finishes,1855,4,m2,27,Bonding Plaster
+10864,Break off wall of corner to form curved corner (skim measured separately),Supply & Install Break off wall of corner to form curved corner (skim measured separately),8,1.0,488,Wall preparation and finishes,1855,2,m,,
+8066,"Ceramic tiles to walls, excluding adhesive and grout","Supply & Install Ceramic tiles to walls, excluding adhesive and grout",1,1.0,488,Wall preparation and finishes,1708,4,m2,441,Ceramic tiles to walls
+8776,Clay plaster,Supply & Install Clay plaster,7,1.0,488,Wall preparation and finishes,1708,4,m2,160,Plaster
+10608,Concrete tiles to wall,Supply & Install Concrete tiles to wall,7,1.0,488,Wall preparation and finishes,1708,4,m2,1111,Cement tiles to wall
+8878,Cut to size mirror,Supply & Install Cut to size mirror,7,1.0,488,Wall preparation and finishes,1708,4,m2,149,Mirror; cut to size
+8606,Dado Rail,Supply & Install Dado Rail,6,,488,Wall preparation and finishes,1917,2,m,938,Dado Rail
+8500,decorative profiles,Supply & Install decorative profiles,7,,488,Wall preparation and finishes,1708,1,nr,904,decorative profiles
+9942,Decorative timber moulding,Supply & Install Decorative timber moulding,7,1.0,488,Wall preparation and finishes,1917,2,m,1750,Timber moulding
+8077,Decoupling membrane to walls,Supply & Install Decoupling membrane to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,341,Decoupling membrane
+8510,Exterior signage,Supply & Install Exterior signage,7,,488,Wall preparation and finishes,1917,35,item,662,Signage
+9790,Feature wall finish,Supply & Install Feature wall finish,7,1.0,488,Wall preparation and finishes,1708,4,m2,1641,Feature wall finish
+8108,Fill and sand walls / prepare wall for decoration / prepare wall for paint,Supply & Install Fill and sand walls / prepare wall for decoration / prepare wall for paint,1,1.0,488,Wall preparation and finishes,1855,4,m2,775,Fill and sand walls
+8440,Form 20mm shadow gap skirting (excludes skirting to be added separately),Supply & Install Form 20mm shadow gap skirting (excludes skirting to be added separately),6,,488,Wall preparation and finishes,1917,2,m,645,Shadow Gap
+10301,Grout removal to existing wall tiles,Supply & Install Grout removal to existing wall tiles,1,1.0,488,Wall preparation and finishes,1708,4,m2,,
+8132,Hardwood skirting,Supply & Install Hardwood skirting,6,1.0,488,Wall preparation and finishes,1917,2,m,226,Skirting board
+8605,Internal wall panelling,Supply & Install Internal wall panelling,1,,488,Wall preparation and finishes,1917,4,m2,691,Panelling
+8750,Large slab tiles to floor,Supply & Install Large slab tiles to floor,7,1.0,488,Wall preparation and finishes,1708,4,m2,751,Large slab tiles
+8749,Large slab tiles to wall,Supply & Install Large slab tiles to wall,7,1.0,488,Wall preparation and finishes,1708,4,m2,751,Large slab tiles
+10043,Make good chases following electrical alterations,Supply & Install Make good chases following electrical alterations,7,1.0,488,Wall preparation and finishes,1855,2,m,1818,Make good chases following electrical alterations
+8747,Mosaic tiles to wall,Supply & Install Mosaic tiles to wall,7,1.0,488,Wall preparation and finishes,1708,4,m2,750,Mosaic tiles
+8817,Oak wall strips to create feature wall,Supply & Install Oak wall strips to create feature wall,7,1.0,488,Wall preparation and finishes,1708,4,m2,1041,Oak wall strips to create feature wall
+10199,Parge coat to walls,Supply & Install Parge coat to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,1898,Parge coat
+10593,Plaster beads,Supply & Install Plaster beads,8,1.0,488,Wall preparation and finishes,1855,2,m,2076,Plaster beads
+10117,Plaster mesh to walls,Supply & Install Plaster mesh to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,2006,Plaster mesh
+10908,Plaster patching to walls,Supply & Install Plaster patching to walls,7,1.0,488,Wall preparation and finishes,1708,4,m2,224,Skim
+10672,Plaster to walls; base coat and finish coat,Supply & Install Plaster to walls; base coat and finish coat,1,1.0,488,Wall preparation and finishes,1855,4,m2,2115,Plaster base coat and finish coat
+8777,Polished/Venetian plaster,Supply & Install Polished/Venetian plaster,1,1.0,488,Wall preparation and finishes,1708,4,m2,1034,Polished Plaster/Venetian Plaster
+8177,Porcelain tiles to walls,Porcelain tiles to walls,7,1.0,488,Wall preparation and finishes,1708,4,m2,503,Porcelain tiles to walls
+10602,PVA sealer/bonding coat to walls,Supply & Install PVA sealer/bonding coat to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,2077,PVA sealer
+8816,Quartzite marble effect splash back tiles,Supply & Install Quartzite marble effect splash back tiles,7,1.0,488,Wall preparation and finishes,1708,4,m2,1040,Quartzite marble effect splash back tiles
+9796,Render to internal wall,Supply & Install Render to internal wall,1,1.0,488,Wall preparation and finishes,1855,4,m2,174,Render
+10922,Repair to tiling,Supply & Install Repair to tiling,11,1.0,488,Wall preparation and finishes,1708,4,m2,167,Porcelain tiles
+8557,Repairs to existing panelling,Supply & Install Repairs to existing panelling,6,,488,Wall preparation and finishes,1917,2,m,691,Panelling
+8558,Repairs to existing skirting board,Supply & Install Repairs to existing skirting board,6,,488,Wall preparation and finishes,1917,2,m,226,Skirting board
+10605,SBR sealer/bonding coat to walls,Supply & Install SBR sealer/bonding coat to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,2078,SBR sealer
+10589,Scratch coat to walls,Supply & Install Scratch coat to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,2074,Scratch coat to walls
+10644,Shaker style wall panelling,Supply & Install Shaker style wall panelling,1,1.0,488,Wall preparation and finishes,1708,4,m2,2097,Shaker style panelling
+10286,Shopfront signage,Supply & Install Shopfront signage,7,1.0,488,Wall preparation and finishes,1917,1,nr,662,Signage
+8229,Skim to walls,Supply & Install Skim to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,224,Skim
+10042,Skim to walls (inner leaf),Supply & Install Skim to walls (inner leaf),1,1.0,488,Wall preparation and finishes,1855,4,m2,224,Skim
+10020,Skim to walls (outer leaf),Supply & Install Skim to walls (outer leaf),1,1.0,488,Wall preparation and finishes,1855,4,m2,224,Skim
+10287,"Skim to walls; clay plaster, undercoat and topcoat","Supply & Install Skim to walls; clay plaster, undercoat and topcoat",1,1.0,488,Wall preparation and finishes,1855,4,m2,1924,Skim; clay plaster; undercoat and topcoat
+8508,Soda blasting to internal walls,Supply & Install Soda blasting to internal walls,1,,488,Wall preparation and finishes,1855,4,m2,660,Specialist cleaning
+8246,Stone tiles to walls,Supply & Install Stone tiles to walls,7,1.0,488,Wall preparation and finishes,1708,4,m2,546,Stone tiles to walls
+8884,Wood internal finish,Supply & Install Wood internal finish,7,1.0,488,Wall preparation and finishes,1708,4,m2,1104,Wood internal finish
+9148,Softwood cladding to internal wall,Supply & Install Softwood cladding to internal wall,1,1.0,488,Wall preparation and finishes,1917,4,m2,541,Softwood cladding
+8559,Softwood Skirting,Supply & Install Softwood Skirting,6,,488,Wall preparation and finishes,1917,2,m,488,Skirting
+10055,Wall tile edging strip,Supply & Install Wall tile edging strip,7,1.0,488,Wall preparation and finishes,1917,2,m,1829,Wall tile edging strip
+10037,Straighten walls prior to tiling with plaster skim coat,Supply & Install Straighten walls prior to tiling with plaster skim coat,7,1.0,488,Wall preparation and finishes,1855,4,m2,1816,Straighten walls
+9974,Tape and joint plasterboard,Supply & Install Tape and joint plasterboard,1,1.0,488,Wall preparation and finishes,1855,4,m2,2165,Tape and joint plasterboard
+8808,Tile adhesive and grouting to walls,Supply & Install Tile adhesive and grouting to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,1033,10mm flexible adhesive and MAPEI grouting 
+8288,Tile backer board to walls,Supply & Install Tile backer board to walls,1,1.0,488,Wall preparation and finishes,1855,4,m2,586,Tile backer board
+10862,Two coats of plaster to wall,Supply & Install Two coats of plaster to wall,1,1.0,488,Wall preparation and finishes,1855,4,m2,2224,Two coats of plaster
+10010,Vermiculite insulation,Supply & Install Vermiculite insulation,7,1.0,488,Wall preparation and finishes,1855,4,m2,1799,Vermiculite insulation
+10335,Pricing clarifications - Floor preparation and finishes,Supply & Install Pricing clarifications - Floor preparation and finishes,7,1.0,470,Floor preparation and finishes,2069,35,item,1954,Pricing clarifications - Floor preparation and finishes
+9405,Acoustic lining / acoustic underlay,Supply & Install Acoustic lining / acoustic underlay,2,1.0,470,Floor preparation and finishes,1948,4,m2,3,Acoustic underlay
+8882,Bespoke Coir mat,Supply & Install Bespoke Coir mat,2,1.0,470,Floor preparation and finishes,1680,4,m2,1102,Coir Mat
+8514,Brush strip entrance matting,Supply & Install Brush strip entrance matting,2,,470,Floor preparation and finishes,1680,4,m2,1102,Coir Mat
+10437,Carpet tiles,Supply & Install Carpet tiles,2,1.0,470,Floor preparation and finishes,1680,4,m2,2012,Carpet tiles
+8061,Carpet to floor,Supply & Install Carpet to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,335,Carpet to floor
+8065,"Ceramic tiles to floor, excluding adhesive and grout","Supply & Install Ceramic tiles to floor, excluding adhesive and grout",2,1.0,470,Floor preparation and finishes,1680,4,m2,337,Ceramic tiles to floor
+8720,Cork Flooring,Supply & Install Cork Flooring,2,1.0,470,Floor preparation and finishes,1680,4,m2,742,Cork Flooring
+8786,Decoupling membrane to floor,Supply & Install Decoupling membrane to floor,2,1.0,470,Floor preparation and finishes,1948,4,m2,341,Decoupling membrane
+8097,Engineered wood to floor,Supply & Install Engineered wood to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,344,Engineered wood to floor
+8907,Epoxy floor coating,Supply & Install Epoxy floor coating,7,1.0,470,Floor preparation and finishes,1680,4,m2,1124,Epoxy floor coating
+9791,Feature floor finish,Supply & Install Feature floor finish,2,1.0,470,Floor preparation and finishes,1680,4,m2,1642,Feature floor finish
+10601,Flagstone flooring,Supply & Install Flagstone flooring,2,1.0,470,Floor preparation and finishes,1680,4,m2,157,Paving
+10327,Floor beading,Supply & Install Floor beading,6,1.0,470,Floor preparation and finishes,1680,2,m,1948,Floor beading
+8013,Flooring underlay,Supply & Install Flooring underlay,2,,470,Floor preparation and finishes,1948,4,m2,462,Flooring underlay
+8001,Forbo Marmoleum Solid Piano to floor,Forbo Marmoleum Solid Piano to floor,2,,470,Floor preparation and finishes,1680,4,m2,766,Forbo Marmoleum Solid Piano to floor
+8012,Granorte Champagner Sand cork flooring,Supply & Install Granorte Champagner Sand cork flooring,2,,470,Floor preparation and finishes,1680,4,m2,767,Granorte Champagner Sand cork flooring
+7999,Granorte Twist Read Natural Cork floor,Supply & Install Granorte Twist Read Natural Cork floor,2,,470,Floor preparation and finishes,1680,4,m2,765,Granorte Twist Read Natural Cork floor
+10300,Grout removal to existing floor tiles,Supply & Install Grout removal to existing floor tiles,2,1.0,470,Floor preparation and finishes,1680,4,m2,,
+8574,Hardwood Floor,Supply & Install Hardwood Floor,2,,470,Floor preparation and finishes,1680,4,m2,129,Hardwood flooring
+9269,Laminate flooring,Supply & Install Laminate flooring,2,1.0,470,Floor preparation and finishes,1680,4,m2,1367,Laminate Flooring
+8150,Levelling to floor,Supply & Install Levelling to floor,2,1.0,470,Floor preparation and finishes,1948,4,m2,196,Self levelling compound
+9139,Make good and polish floor,Supply & Install Make good and polish floor,2,1.0,470,Floor preparation and finishes,1948,4,m2,660,Specialist cleaning
+10033,Microcement floor finish,Supply & Install Microcement floor finish,2,1.0,470,Floor preparation and finishes,1680,4,m2,1813,Microcement floor finish
+8748,Mosaic tiles to floor,Supply & Install Mosaic tiles to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,750,Mosaic tiles
+8170,Parquet to floor,Parquet to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,498,Parquet to floor
+8175,Polished concrete,Polished concrete,2,1.0,470,Floor preparation and finishes,1680,4,m2,166,Polished concrete
+8176,Porcelain tiles to floor,Supply & Install Porcelain tiles to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,502,Porcelain tiles to floor
+8179,Poured resin,Supply & Install Poured resin,2,1.0,470,Floor preparation and finishes,1680,4,m2,504,Poured resin
+9620,Prime Cost sum for the supply of wall and floor tiles and  accessories,Supply & Install Prime Cost sum for the supply of wall and floor tiles and  accessories,7,1.0,470,Floor preparation and finishes,1680,35,item,42,Ceramic tiles
+9447,Prime Cost Sum for Timber Flooring,Supply & Install Prime Cost Sum for Timber Flooring,7,1.0,470,Floor preparation and finishes,1680,35,item,344,Engineered wood to floor
+9704,Provisional Sum for Floor Finishes,Supply & Install Provisional Sum for Floor Finishes,7,1.0,470,Floor preparation and finishes,1987,35,item,1100,Provisional Sum
+10604,PVA sealer/bonding coat to floors,Supply & Install PVA sealer/bonding coat to floors,2,1.0,470,Floor preparation and finishes,1948,4,m2,2077,PVA sealer
+8569,Rubber flooring,Supply & Install Rubber flooring,2,,470,Floor preparation and finishes,1680,4,m2,1135,Rubber flooring
+8916,Sand and seal hardwood finishes,Supply & Install Sand and seal hardwood finishes,2,1.0,470,Floor preparation and finishes,1680,4,m2,1132,Sand and seal hardwood finishes
+8202,Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring,Supply & Install Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring,2,1.0,470,Floor preparation and finishes,1680,4,m2,521,Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring
+8203,Sanding and 3 coats of lacquer to wood flooring,Supply & Install Sanding and 3 coats of lacquer to wood flooring,2,1.0,470,Floor preparation and finishes,1680,4,m2,522,Sanding and 3 coats of lacquer to wood flooring
+8204,Sanding only to wood flooring,Supply & Install Sanding only to wood flooring,2,1.0,470,Floor preparation and finishes,1680,4,m2,523,Sanding only to wood flooring
+10607,SBR sealer/bonding coat to floors,Supply & Install SBR sealer/bonding coat to floors,2,1.0,470,Floor preparation and finishes,1948,4,m2,2078,SBR sealer
+7604,Self levelling compound to floor,Supply & Install Self levelling compound to floor,2,1.0,470,Floor preparation and finishes,1948,4,m2,196,Self levelling compound
+8154,Skirting,Supply & Install Skirting,6,1.0,470,Floor preparation and finishes,1680,2,m,488,Skirting
+8513,Stair Nosings,Supply & Install Stair Nosings,7,,470,Floor preparation and finishes,1680,2,m,248,Stairs by riser
+9915,Stair rods,Supply & Install Stair rods,7,1.0,470,Floor preparation and finishes,1680,1,nr,1734,Stair rods
+8245,Stone tiles to floor,Supply & Install Stone tiles to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,545,Stone tiles to floor
+9067,Tanking to floor,Supply & Install Tanking to floor,2,1.0,470,Floor preparation and finishes,1948,4,m2,401,Wet room tanking / shower tanking
+8287,Three coats of oil to timber floor,Supply & Install Three coats of oil to timber floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,585,Three coats of oil to timber floor
+9989,Threshold step / threshold board,Supply & Install Threshold step / threshold board,7,1.0,470,Floor preparation and finishes,1680,2,m,1783,Threshold step / threshold board
+8869,Tile adhesive and grouting to floor,Supply & Install Tile adhesive and grouting to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,1033,10mm flexible adhesive and MAPEI grouting 
+9068,Tile backer board to floors,Supply & Install Tile backer board to floors,2,1.0,470,Floor preparation and finishes,1948,4,m2,586,Tile backer board
+8644,Tile skirting to floor,Supply & Install Tile skirting to floor,6,,470,Floor preparation and finishes,1680,2,m,724,Tile Skirting
+8602,Tiles to stair treads and risers,Supply & Install Tiles to stair treads and risers,7,,470,Floor preparation and finishes,1680,4,m2,502,Porcelain tiles to floor
+8296,Two coats of oil to timber floor,Supply & Install Two coats of oil to timber floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,591,Two coats of oil to timber floor
+9088,Two coats of paint to floor,Supply & Install Two coats of paint to floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,2210,Two coats of floor paint
+10839,Two coats of varnish to cork floor,Supply & Install Two coats of varnish to cork floor,2,1.0,470,Floor preparation and finishes,1680,4,m2,289,Two coats of varnish
+8297,Two coats of wax,Supply & Install Two coats of wax,2,1.0,470,Floor preparation and finishes,1680,4,m2,290,Two coats of wax
+9374,Vinyl adhesive,Supply & Install Vinyl adhesive,2,1.0,470,Floor preparation and finishes,1680,4,m2,1429,Vinyl adhesive
+8927,Vinyl flooring / vinyl tile,Supply & Install Vinyl flooring / vinyl tile,2,1.0,470,Floor preparation and finishes,1680,4,m2,299,Vinyl flooring
+9303,Walk-on glass panel,Supply & Install Walk-on glass panel,7,1.0,470,Floor preparation and finishes,1680,35,item,1391,Glass panel to floor
+8934,Corian worktop,Supply & Install Corian worktop,9,1.0,469,"Units, worktops and kitchen appliances",1864,2,m,1137,Corian worktop
+8575,Granite worktop,Supply & Install Granite worktop,9,,469,"Units, worktops and kitchen appliances",1864,2,m,694,Granite worktop
+8570,Marble worktop,Supply & Install Marble worktop,9,,469,"Units, worktops and kitchen appliances",1864,2,m,696,Marble worktop
+8586,Quartz worktop,Supply & Install Quartz worktop,9,,469,"Units, worktops and kitchen appliances",1864,2,m,704,Quartz worktop
+10053,Splashback above worktop,Supply & Install Splashback above worktop,7,1.0,469,"Units, worktops and kitchen appliances",1864,2,m,1827,Splashback to walls
+10054,Splashback to underside of cooker hood,Supply & Install Splashback to underside of cooker hood,7,1.0,469,"Units, worktops and kitchen appliances",1864,4,m2,1828,Splashback to underside of cooker hood
+10719,Stone effect worktop,Supply & Install Stone effect worktop,7,1.0,469,"Units, worktops and kitchen appliances",1864,2,m,256,Stone worktop
+8378,Wooden worktop / Laminate worktop,Supply & Install Wooden worktop / Laminate worktop,7,,469,"Units, worktops and kitchen appliances",1864,2,m,319,Wooden worktop
+9669,Worktop,Supply & Install Worktop,7,1.0,469,"Units, worktops and kitchen appliances",1864,35,item,1593,Worktop
+10322,Pricing clarifications - Units and worktops,Supply & Install Pricing clarifications - Units and worktops,7,1.0,469,"Units, worktops and kitchen appliances",2056,35,item,1943,Pricing clarifications - Units and worktops
+8379,Base cabinet,Supply & Install Base cabinet,7,,469,"Units, worktops and kitchen appliances",1801,1,nr,425,Base cabinet
+10732,Base cabinet; magic corner pull out unit storage,Supply & Install Base cabinet; magic corner pull out unit storage,7,1.0,469,"Units, worktops and kitchen appliances",1801,1,nr,2152,Base cabinet; magic corner pull out unit storage
+10442,Build carcass to support projecting breakfast bar,Supply & Install Build carcass to support projecting breakfast bar,7,1.0,469,"Units, worktops and kitchen appliances",1801,35,item,2015,Build carcass to support projecting breakfast bar
+8751,Island base cabinet,Supply & Install Island base cabinet,7,1.0,469,"Units, worktops and kitchen appliances",1801,4,m2,425,Base cabinet
+8856,Kitchen base cabinet doors,Supply & Install Kitchen base cabinet doors,7,1.0,469,"Units, worktops and kitchen appliances",1801,1,nr,1084,kitchen cabinet doors
+8891,Units doors,Supply & Install Units doors,7,1.0,469,"Units, worktops and kitchen appliances",1801,1,nr,1106,Unit doors
+10500,Ductwork and associated BWIC allowance for extractor,Supply & Install Ductwork and associated BWIC allowance for extractor,7,1.0,469,"Units, worktops and kitchen appliances",1963,2,m,1261,Ductwork and associated BWIC allowance
+10501,"Formation of opening in wall/ceiling for vent, including supply and installation of vent for kitchen","Supply & Install Formation of opening in wall/ceiling for vent, including supply and installation of vent for kitchen",7,1.0,469,"Units, worktops and kitchen appliances",1963,1,nr,741,Sundry items
+10249,Kitchen install only,Supply & Install Kitchen install only,7,1.0,469,"Units, worktops and kitchen appliances",1963,1,nr,,
+8946,Kitchen Island,Supply & Install Kitchen Island,7,1.0,469,"Units, worktops and kitchen appliances",1963,1,nr,1145,Kitchen Island
+10930,Kitchen repairs - PS,Supply & Install Kitchen repairs - PS,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,,
+8785,Kitchen Supply,Supply & Install Kitchen Supply,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,1014,Supplier Quotation - Kitchens
+10375,Kitchen supply and install quote,Supply & Install Kitchen supply and install quote,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,1979,Kitchen supply and install quote
+8954,Kitchen Units and Worktops,Supply & Install Kitchen Units and Worktops,7,1.0,469,"Units, worktops and kitchen appliances",1963,1,nr,618,Kitchen Units and Worktop
+9396,Temporary kitchen,Supply & Install Temporary kitchen,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,618,Kitchen Units and Worktop
+9644,Utility Room - Supply Quote,Supply & Install Utility Room - Supply Quote,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,1576,Suppier quotation - Utility Room
+10793,Utility Room install only,Supply & Install Utility Room install only,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,,
+9311,Utility Units and Worktops,Supply & Install Utility Units and Worktops,7,1.0,469,"Units, worktops and kitchen appliances",1963,35,item,618,Kitchen Units and Worktop
+10796,Kitchen bar table and chairs,Supply & Install Kitchen bar table and chairs,7,1.0,469,"Units, worktops and kitchen appliances",2096,35,item,2183,Kitchen bar table and chairs
+8448,Kitchen bin,Supply & Install Kitchen bin,7,,469,"Units, worktops and kitchen appliances",2096,35,item,651,Kitchen fixtures and fittings
+10691,Waste bin,Supply & Install Waste bin,7,1.0,469,"Units, worktops and kitchen appliances",2096,1,nr,2127,Waste bin
+10380,Allowance for BWIC / Builders Work in Connection with services for pipework to kitchen,Supply & Install Allowance for BWIC / Builders Work in Connection with services for pipework to kitchen,7,1.0,469,"Units, worktops and kitchen appliances",2082,1,nr,1434,BWIC with services / Builders Work in Connection with services
+9479,Built-in electric microwave,Supply & Install Built-in electric microwave,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,1492,Electric microwave
+8064,Ceramic hob,Supply & Install Ceramic hob,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,440,Ceramic hob
+10533,Core drill through two brick thick wall for new pipework/vent pipe; kitchen works,Supply & Install Core drill through two brick thick wall for new pipework/vent pipe; kitchen works,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,,
+8788,Dual fuel cooker,Supply & Install Dual fuel cooker,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,137,Dual fuel cooker
+8091,Electric hob,Supply & Install Electric hob,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,90,Electric hob
+8092,Electric oven,Supply & Install Electric oven,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,91,Electric oven
+10516,Food Waste & Garbage Disposal Unit,Supply & Install Food Waste & Garbage Disposal Unit,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,2041,Food Waste & Garbage Disposal Unit
+8918,Freezer,Supply & Install Freezer,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,110,Fridge freezer
+8917,Fridge,Supply & Install Fridge,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,1978,Fridge
+10724,Fridge freezer housing unit,Supply & Install Fridge freezer housing unit,7,1.0,469,"Units, worktops and kitchen appliances",1662,1,nr,2149,Freezer housing unit
+8728,Fridge/freezer,Supply & Install Fridge/freezer,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,110,Fridge freezer
+8450,Full height kitchen cabinet,Supply & Install Full height kitchen cabinet,7,,469,"Units, worktops and kitchen appliances",1662,1,nr,874,Full height kitchen cabinet
+8080,Fullsize dishwasher,Supply & Install Fullsize dishwasher,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,68,Dishwasher
+8119,Gas hob,Supply & Install Gas hob,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,115,Gas hob
+8120,Gas oven,Supply & Install Gas oven,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,465,Gas oven
+8136,Induction hob,Supply & Install Induction hob,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,475,Induction hob
+8820,Instant hot water tap,Supply & Install Instant hot water tap,7,1.0,469,"Units, worktops and kitchen appliances",2080,1,nr,1045,Instant hot water tap
+10374,Integrated dishwasher,Supply & Install Integrated dishwasher,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,68,Dishwasher
+10373,Integrated fridge,Supply & Install Integrated fridge,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,1978,Fridge
+8331,Kitchen sink,Supply & Install Kitchen sink,7,1.0,469,"Units, worktops and kitchen appliances",2079,1,nr,606,Kitchen sink
+10377,Kitchen sink waste,Supply & Install Kitchen sink waste,7,1.0,469,"Units, worktops and kitchen appliances",2081,1,nr,380,Sink waste
+10376,Kitchen tap,Supply & Install Kitchen tap,7,1.0,469,"Units, worktops and kitchen appliances",2080,1,nr,1980,Kitchen tap
+10315,Kitchen wall cabinet doors,Supply & Install Kitchen wall cabinet doors,7,1.0,469,"Units, worktops and kitchen appliances",1852,1,nr,1936,Kitchen wall cabinet doors
+8520,Plumbed in tumble dryer,Supply & Install Plumbed in tumble dryer,7,,469,"Units, worktops and kitchen appliances",2078,1,nr,664,Tumble dryer
+8315,Plumbed in washing machine,Supply & Install Plumbed in washing machine,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,311,Plumbed in  washing machine
+9705,Provisional Sum for Utility Units and Worktop,Supply & Install Provisional Sum for Utility Units and Worktop,7,1.0,469,"Units, worktops and kitchen appliances",1988,35,item,1607,Provisional Sum for Utility Units and Worktop
+10726,Pull out larder extension unit,Supply & Install Pull out larder extension unit,7,1.0,469,"Units, worktops and kitchen appliances",1662,1,nr,2151,Pull out larder extension unit
+10725,Pull out larder unit,Supply & Install Pull out larder unit,7,1.0,469,"Units, worktops and kitchen appliances",1662,1,nr,2150,Pull out larder unit
+8380,Wall cabinet,Supply & Install Wall cabinet,7,,469,"Units, worktops and kitchen appliances",1852,1,nr,595,Wall cabinet
+8521,Slimline dishwasher,Supply & Install Slimline dishwasher,7,,469,"Units, worktops and kitchen appliances",2078,1,nr,68,Dishwasher
+8310,Vented extractor fan / cooker hood,Supply & Install Vented extractor fan / cooker hood,7,1.0,469,"Units, worktops and kitchen appliances",2078,31,point,594,Vented extractor fan / cooker hood
+8965,Wine cooler / wine fridge,Supply & Install Wine cooler / wine fridge,7,1.0,469,"Units, worktops and kitchen appliances",2078,1,nr,1161,Wine cooler / wine fridge
+10914,Water filter,Supply & Install Water filter,7,1.0,469,"Units, worktops and kitchen appliances",2080,1,nr,2238,Water filter
+8316,Water softener,Supply & Install Water softener,7,1.0,469,"Units, worktops and kitchen appliances",2080,1,nr,599,Water softener
+9205,Bespoke shelves,Supply & Install Bespoke shelves,7,1.0,473,Joinery,1741,1,nr,21,Bespoke shelves
+8767,MDF Shelving,Supply & Install MDF Shelving,7,1.0,473,Joinery,1741,1,nr,1043,MDF Shelving
+8610,Shelves / shelf,Supply & Install Shelves / shelf,7,,473,Joinery,1741,1,nr,21,Bespoke shelves
+8614,Timber Shelf Unit - PC,Supply & Install Timber Shelf Unit - PC,7,,473,Joinery,1741,35,item,940,Timber Shelf Unit
+10751,Bar to client's design,Supply & Install Bar to client's design,7,1.0,473,Joinery,1758,35,item,,
+8802,"Built in storage, ceiling high","Supply & Install Built in storage, ceiling high",7,1.0,473,Joinery,1758,1,nr,895,Wardrobe 1-2m
+8483,Fitted shelving and storage,Supply & Install Fitted shelving and storage,7,,473,Joinery,1758,1,nr,897,Fitted shelving and storage
+8482,Fitted window seat and storage,Supply & Install Fitted window seat and storage,7,,473,Joinery,1758,1,nr,896,Fitted window seat and storage
+8914,Restore wooden platform,Supply & Install Restore wooden platform,7,1.0,473,Joinery,1758,1,nr,1130,Restore wooden platform
+8484,Sliding partition,Supply & Install Sliding partition,7,,473,Joinery,1758,1,nr,898,Sliding partition
+10673,Wardrobe doors,Supply & Install Wardrobe doors,7,1.0,473,Joinery,1758,7,nr,70,Door
+9741,Caulking,Supply & Install Caulking,7,1.0,486,Decoration,1991,2,m,1629,Caulking
+10357,One coat of paint to downpipes,Supply & Install One coat of paint to downpipes,7,1.0,486,Decoration,1992,2,m,1966,Paint to gutters and downpipes
+10356,One coat of paint to gutters,Supply & Install One coat of paint to gutters,7,1.0,486,Decoration,1992,2,m,1966,Paint to gutters and downpipes
+9782,Property decoration,Supply & Install Property decoration,7,1.0,486,Decoration,1992,35,item,1639,Property decoration
+9909,Sand gutters and pipes; re-paint; one coat,Supply & Install Sand gutters and pipes; re-paint; one coat,7,1.0,486,Decoration,1992,2,m,1732,Sand gutters and paint; re-paint; one coat
+8507,Exterior masonry paint; two coats of paint,Supply & Install Exterior masonry paint; two coats of paint,1,,486,Decoration,1678,4,m2,906,Exterior masonry paint
+9532,First & Second Floor Decoration,First & Second Floor Decoration,7,1.0,486,Decoration,1678,1,nr,320,Wall Paint
+9793,Fixed price decoration,Supply & Install Fixed price decoration,7,1.0,486,Decoration,1986,35,item,1603,Painting & decorating subcontractor quotation
+9933,Lining paper to walls,Supply & Install Lining paper to walls,1,1.0,486,Decoration,1999,4,m2,1744,Lining paper
+8811,Make good and redecorate windows,Supply & Install Make good and redecorate windows,7,1.0,486,Decoration,1920,1,nr,1035,Make good and redecorate windows
+5489,Mist coat and top coat of paint to walls,Supply & Install Mist coat and top coat of paint to walls,1,,486,Decoration,1678,4,m2,391,Two coats of paint
+5488,Mist coat and top coat to ceiling,Supply & Install Mist coat and top coat to ceiling,3,,486,Decoration,1677,4,m2,391,Two coats of paint
+9198,Mist coat and two coats of eggshell paint to ceiling,Supply & Install Mist coat and two coats of eggshell paint to ceiling,3,1.0,486,Decoration,1677,4,m2,1335,Mist coat and two coats of eggshell paint
+9197,Mist coat and two coats of eggshell paint to walls,Supply & Install Mist coat and two coats of eggshell paint to walls,1,1.0,486,Decoration,1678,4,m2,1335,Mist coat and two coats of eggshell paint
+6078,Mist coat and two coats of paint to ceiling,Supply & Install Mist coat and two coats of paint to ceiling,3,,486,Decoration,1677,4,m2,492,Mist coat and two coats of paint to ceiling
+8163,Mist coat and two coats of paint to ceiling and cornice,Supply & Install Mist coat and two coats of paint to ceiling and cornice,3,1.0,486,Decoration,1677,4,m2,492,Mist coat and two coats of paint to ceiling
+8164,Mist coat and two coats of paint to walls,Supply & Install Mist coat and two coats of paint to walls,1,1.0,486,Decoration,1678,4,m2,493,Mist coat and two coats of paint to walls
+9572,Mist coat only to ceilings,Supply & Install Mist coat only to ceilings,3,1.0,486,Decoration,1677,4,m2,856,Single coat of paint
+9571,Mist coat only to walls,Supply & Install Mist coat only to walls,1,1.0,486,Decoration,1678,4,m2,856,Single coat of paint
+9652,One coat of paint to balustrade,Supply & Install One coat of paint to balustrade,7,1.0,486,Decoration,1944,2,m,856,Single coat of paint
+10082,One coat to fascia board,Supply & Install One coat to fascia board,6,1.0,486,Decoration,1944,2,m,1273,Single gloss coat to skirting / architrave / window board / shelves n.e. 300mm
+9116,One gloss coat to skirting / one gloss coat to architraves / one gloss coat to shelving / one gloss coat to window board,Supply & Install One gloss coat to skirting / one gloss coat to architraves / one gloss coat to shelving / one gloss coat to window board,7,1.0,486,Decoration,1944,2,m,1273,Single gloss coat to skirting / architrave / window board / shelves n.e. 300mm
+9665,Prepare and redecorate soffits and facias; primer and two coats,Prepare and redecorate soffits and facias; primer and two coats,7,1.0,486,Decoration,1983,2,m,698,Primer and two coats of paint to skirting
+10483,Pricing clarifications - Decoration,Supply & Install Pricing clarifications - Decoration,7,1.0,486,Decoration,2089,35,item,2027,Pricing clarifications - Decoration
+9117,Primer and one gloss coat to skirting / architrave / window board / shelving,Supply & Install Primer and one gloss coat to skirting / architrave / window board / shelving,7,1.0,486,Decoration,1944,2,m,1274,Primer and one gloss coat to skirting / architrave / window board / shelving
+9206,Primer and two coats of eggshell to skirting / joinery / window board / architrave,Supply & Install Primer and two coats of eggshell to skirting / joinery / window board / architrave,6,1.0,486,Decoration,1944,2,m,698,Primer and two coats of paint to skirting
+8697,Primer and two coats of paint to kitchen unit,Supply & Install Primer and two coats of paint to kitchen unit,7,1.0,486,Decoration,1944,1,nr,736,Paint to kitchen units
+8871,Primer and two eggshell top coats to door,Supply & Install Primer and two eggshell top coats to door,7,1.0,486,Decoration,1908,1,nr,365,"Primer, undercoat and two coats of paint to door"
+9368,Primer and two top coats of paint to radiator (m2),Supply & Install Primer and two top coats of paint to radiator (m2),7,1.0,486,Decoration,1979,4,m2,1425,Paint to radiator
+9868,Primer and two top coats of paint to radiator (per radiator),Supply & Install Primer and two top coats of paint to radiator (per radiator),7,1.0,486,Decoration,1979,1,nr,1699,Paint to radiator (per radiator)
+9542,Primer and two top coats to external ceiling,Supply & Install Primer and two top coats to external ceiling,3,1.0,486,Decoration,1677,4,m2,906,Exterior masonry paint
+9054,Primer and two top coats to external wall,Supply & Install Primer and two top coats to external wall,1,1.0,486,Decoration,1678,4,m2,906,Exterior masonry paint
+9365,Primer and two top coats to ladder,Supply & Install Primer and two top coats to ladder,7,1.0,486,Decoration,1944,1,nr,1423,Primer and two top coats to ladder
+9363,Primer and two top coats to vanity unit,Supply & Install Primer and two top coats to vanity unit,7,1.0,486,Decoration,1944,1,nr,1421,Primer and two top coats of paint to vanity unit
+9306,Primer and undercoat only to architrave,Supply & Install Primer and undercoat only to architrave,7,1.0,486,Decoration,1909,7,nr,1394,Primer and undercoat only to architrave
+9305,Primer and undercoat only to door,Supply & Install Primer and undercoat only to door,7,1.0,486,Decoration,1908,1,nr,1393,Primer and undercoat only to door
+9304,Primer and undercoat only to skirtings,Supply & Install Primer and undercoat only to skirtings,6,1.0,486,Decoration,1666,2,m,1392,Primer and undercoat only to skirting
+9369,"Primer, undercoat and gloss coat to exposed joists","Supply & Install Primer, undercoat and gloss coat to exposed joists",7,1.0,486,Decoration,1944,2,m,698,Primer and two coats of paint to skirting
+8609,"Primer, undercoat and gloss coat to shelving","Supply & Install Primer, undercoat and gloss coat to shelving",7,,486,Decoration,1944,2,m,698,Primer and two coats of paint to skirting
+8181,"Primer, undercoat and gloss coat to skirting","Supply & Install Primer, undercoat and gloss coat to skirting",6,1.0,486,Decoration,1666,2,m,698,Primer and two coats of paint to skirting
+8451,"Primer, undercoat and gloss coat to softwood architrave","Supply & Install Primer, undercoat and gloss coat to softwood architrave",7,,486,Decoration,1909,1,nr,1094,Architrave paint
+8452,"Primer, undercoat and gloss coat to softwood door","Supply & Install Primer, undercoat and gloss coat to softwood door",4,,486,Decoration,1908,7,nr,365,"Primer, undercoat and two coats of paint to door"
+8402,"Primer, undercoat and gloss coat to window","Supply & Install Primer, undercoat and gloss coat to window",5,,486,Decoration,1920,7,nr,365,"Primer, undercoat and two coats of paint to door"
+9080,"Primer, undercoat and gloss coat to window board","Supply & Install Primer, undercoat and gloss coat to window board",7,1.0,486,Decoration,1920,2,m,698,Primer and two coats of paint to skirting
+9546,"Primer, undercoat and matt coat to skirting","Supply & Install Primer, undercoat and matt coat to skirting",6,1.0,486,Decoration,1666,2,m,1521,"Primer, undercoat and matt coat to skirting"
+10729,"Primer, undercoat and matt coat to softwood architrave","Supply & Install Primer, undercoat and matt coat to softwood architrave",7,1.0,486,Decoration,1909,1,nr,1094,Architrave paint
+10728,"Primer, undercoat and matt coat to window","Supply & Install Primer, undercoat and matt coat to window",7,1.0,486,Decoration,1920,1,nr,365,"Primer, undercoat and two coats of paint to door"
+10731,"Primer, undercoat and matt coat to window board","Supply & Install Primer, undercoat and matt coat to window board",7,1.0,486,Decoration,1920,2,m,698,Primer and two coats of paint to skirting
+10308,"Primer, undercoat and top coat to joinery","Supply & Install Primer, undercoat and top coat to joinery",7,1.0,486,Decoration,1678,4,m2,493,Mist coat and two coats of paint to walls
+8444,Sand back existing spindles,Supply & Install Sand back existing spindles,7,,486,Decoration,1944,2,m,872,Sand back existing spindles
+10072,Sand back paintwork on stone mullion window,Supply & Install Sand back paintwork on stone mullion window,7,1.0,486,Decoration,1920,1,nr,,
+10518,"Sand joists, made good, decorated/varnished","Supply & Install Sand joists, made good, decorated/varnished",3,1.0,486,Decoration,1677,4,m2,521,Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring
+10422,Sand timber between applications of oil,Supply & Install Sand timber between applications of oil,7,1.0,486,Decoration,1677,4,m2,,
+5493,Single coat of paint to ceiling,Supply & Install Single coat of paint to ceiling,3,,486,Decoration,1677,4,m2,856,Single coat of paint
+10307,Two coats of oil to timber ceiling,Supply & Install Two coats of oil to timber ceiling,2,1.0,486,Decoration,1677,4,m2,521,Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring
+9258,Two coats of paint to ceiling; underside of exposed pitched roof structure,Supply & Install Two coats of paint to ceiling; underside of exposed pitched roof structure,3,1.0,486,Decoration,1677,4,m2,492,Mist coat and two coats of paint to ceiling
+9115,Single coat of paint to wall,Supply & Install Single coat of paint to wall,1,1.0,486,Decoration,1678,4,m2,856,Single coat of paint
+9698,Subcontractor quotation for supply and install,Supply & Install Subcontractor quotation for supply and install,7,1.0,486,Decoration,1678,35,item,1603,Painting & decorating subcontractor quotation
+10498,Two coats of oil to joinery,Supply & Install Two coats of oil to joinery,7,1.0,486,Decoration,1678,4,m2,521,Sanding and 2 coats of coloured/clear Hardwax or oil to wood flooring
+9531,Whole house decoration,Supply & Install Whole house decoration,7,1.0,486,Decoration,1678,35,item,1511,Whole house decoration
+10306,Wallpaper to ceiling,Supply & Install Wallpaper to ceiling,2,1.0,486,Decoration,1999,4,m2,310,Wallpaper
+8741,Wallpaper to wall,Supply & Install Wallpaper to wall,1,1.0,486,Decoration,1999,4,m2,310,Wallpaper
+10944,"Sand back, repair and correct, apply primer and top coat to wooden door","Supply & Install Sand back, repair and correct, apply primer and top coat to wooden door",7,1.0,486,Decoration,1908,1,nr,365,"Primer, undercoat and two coats of paint to door"
+8577,"Scrape, fill and sand door","Supply & Install Scrape, fill and sand door",4,,486,Decoration,1908,7,nr,931,"Scrape, fill and sand door"
+10723,Undercoat and gloss coat to softwood door,Supply & Install Undercoat and gloss coat to softwood door,7,1.0,486,Decoration,1908,1,nr,2148,Undercoat and gloss coat to softwood door
+10730,Undercoat and matt coat to softwood door,Supply & Install Undercoat and matt coat to softwood door,7,1.0,486,Decoration,1908,1,nr,2148,Undercoat and gloss coat to softwood door
+10900,"Vinyl wrap to single door, both sides","Supply & Install Vinyl wrap to single door, both sides",4,1.0,486,Decoration,1908,7,nr,1393,Primer and undercoat only to door
+9102,"Scrape, fill and sand architrave","Supply & Install Scrape, fill and sand architrave",4,1.0,486,Decoration,1909,7,nr,1262,"Scrape, fill and sand architrave"
+10656,"Sand back spindles, apply primer and top coat; 100mm centres","Supply & Install Sand back spindles, apply primer and top coat; 100mm centres",7,1.0,486,Decoration,1944,4,m2,2105,"Sand back spindles, apply primer and top coat"
+9086,"Sand back, repair and correct, apply primer and top coat to wooden stairs","Supply & Install Sand back, repair and correct, apply primer and top coat to wooden stairs",7,1.0,486,Decoration,1944,4,m2,1711,Decoration to stairs
+9744,"Sand, prepare and re-paint inside of cupboard","Supply & Install Sand, prepare and re-paint inside of cupboard",7,1.0,486,Decoration,1944,35,item,365,"Primer, undercoat and two coats of paint to door"
+10073,Sandblast trusses and purlins to remove old painted surface ,Supply & Install Sandblast trusses and purlins to remove old painted surface ,7,1.0,486,Decoration,1944,2,m,,
+9486,Two coats of paint to balustrade,Supply & Install Two coats of paint to balustrade,7,1.0,486,Decoration,1944,4,m2,391,Two coats of paint
+9806,"Sand back, repair and correct, apply primer and top coat to wooden rooflight frame","Supply & Install Sand back, repair and correct, apply primer and top coat to wooden rooflight frame",7,1.0,486,Decoration,1920,1,nr,1651,Prepare and decorate rooflight frame
+8846,"Sand back, repair and correct, apply primer and top coat to wooden window frame","Supply & Install Sand back, repair and correct, apply primer and top coat to wooden window frame",7,1.0,486,Decoration,1920,1,nr,995,Refurbish existing window
+8783,"Sand back, repair and correct, apply rust resistant primer and hardened top coat to metal frame","Supply & Install Sand back, repair and correct, apply rust resistant primer and hardened top coat to metal frame",7,1.0,486,Decoration,1920,1,nr,995,Refurbish existing window
+9104,"Scrape, fill and sand window board","Supply & Install Scrape, fill and sand window board",7,1.0,486,Decoration,1920,2,m,1266,"Scrape, fill and sand window board"
+9103,"Scrape, fill and sand skirting","Supply & Install Scrape, fill and sand skirting",6,1.0,486,Decoration,1666,2,m,1263,"Scrape, fill and sand skirting"
+10338,Pricing clarifications - Fixtures and fittings,Supply & Install Pricing clarifications - Fixtures and fittings,7,1.0,480,Fixtures and fittings,2070,35,item,1957,Pricing clarifications - Fixtures and fittings
+9990,Create slot in wall for curtain track or blinds pole,Supply & Install Create slot in wall for curtain track or blinds pole,7,1.0,480,Fixtures and fittings,1950,2,m,1784,Channel track
+8829,Curtain rail,Supply & Install Curtain rail,7,1.0,480,Fixtures and fittings,1950,2,m,60,Curtain rail
+10309,Curtains (rail itemised separately),Supply & Install Curtains (rail itemised separately),7,1.0,480,Fixtures and fittings,1950,1,nr,1932,Curtains
+8928,Electric recessed blinds,Supply & Install Electric recessed blinds,5,1.0,480,Fixtures and fittings,1950,7,nr,1055,Electric blinds
+8798,Window blinds,Supply & Install Window blinds,5,1.0,480,Fixtures and fittings,1950,7,nr,1931,Blinds - manual
+9474,Bespoke mirror,Supply & Install Bespoke mirror,7,1.0,480,Fixtures and fittings,1743,1,nr,1487,Bespoke mirror
+9544,Dressing mirror,Supply & Install Dressing mirror,7,1.0,480,Fixtures and fittings,1743,1,nr,1519,Dressing mirror
+8137,Inset mirror,Supply & Install Inset mirror,7,1.0,480,Fixtures and fittings,1743,1,nr,354,Inset mirror
+9478,Mirror demister,Supply & Install Mirror demister,7,1.0,480,Fixtures and fittings,1743,1,nr,1491,Mirror demister
+9795,Mirror wall,Supply & Install Mirror wall,7,1.0,480,Fixtures and fittings,1743,4,m2,1644,Mirror wall
+9324,Table mirror,Supply & Install Table mirror,7,1.0,480,Fixtures and fittings,1743,1,nr,1406,Table mirror
+9256,Wall hung mirror,Supply & Install Wall hung mirror,7,1.0,480,Fixtures and fittings,1743,1,nr,1365,Wall hung mirror
+9409,Wall hung mirror with light fitting (electrical connection required),Supply & Install Wall hung mirror with light fitting (electrical connection required),7,1.0,480,Fixtures and fittings,1743,1,nr,1365,Wall hung mirror
+8879,Provisional Sum for Fixtures and Fittings,Supply & Install Provisional Sum for Fixtures and Fittings,7,1.0,480,Fixtures and fittings,2095,35,item,1760,Provisional Sum for Fixtures and Fittings
+8718,Animal repellent mat,Supply & Install Animal repellent mat,7,1.0,480,Fixtures and fittings,1874,1,nr,1868,Animal repellent mat
+10807,Auto pool cover,Supply & Install Auto pool cover,7,1.0,480,Fixtures and fittings,1874,35,item,2189,Auto pool cover
+9869,"Bathroom accessory pack, including toilet roll holder, towel hook and toilet brush","Supply & Install Bathroom accessory pack, including toilet roll holder, towel hook and toilet brush",7,1.0,480,Fixtures and fittings,1874,1,nr,1700,"Bathroom accessory pack, including toilet roll holder, towel hook and toilet brush"
+9875,"Bathroom accessory pack, including towel rail, towel hook and toilet brush","Supply & Install Bathroom accessory pack, including towel rail, towel hook and toilet brush",7,1.0,480,Fixtures and fittings,1874,1,nr,1706,"Bathroom accessory pack, including towel rail, towel hook and toilet brush"
+10052,Bathroom cabinet,Supply & Install Bathroom cabinet,7,1.0,480,Fixtures and fittings,1874,1,nr,1826,Bathroom cabinet
+9585,Bathroom worktop,Supply & Install Bathroom worktop,7,1.0,480,Fixtures and fittings,1874,2,m,319,Wooden worktop
+10159,Bed,Supply & Install Bed,7,1.0,480,Fixtures and fittings,1874,1,nr,1873,Bed
+10658,Bespoke item,Supply & Install Bespoke item,7,1.0,480,Fixtures and fittings,1874,35,item,2107,Bespoke item
+9628,Bespoke joinery,Supply & Install Bespoke joinery,7,1.0,480,Fixtures and fittings,1874,1,nr,20,Bespoke joinery
+8556,Bespoke lightwell grill,Supply & Install Bespoke lightwell grill,7,,480,Fixtures and fittings,1874,4,m2,690,Lightwell Grill
+9364,Bespoke vanity unit,Supply & Install Bespoke vanity unit,7,1.0,480,Fixtures and fittings,1874,1,nr,1422,Bespoke vanity unit base
+9476,Cloakroom rail,Supply & Install Cloakroom rail,7,1.0,480,Fixtures and fittings,1874,1,nr,1489,Cloakroom rail
+10157,Clothes drier,Supply & Install Clothes drier,7,1.0,480,Fixtures and fittings,1874,1,nr,1871,Clothes drier
+8719,Coat Hook/Towel Hook,Supply & Install Coat Hook/Towel Hook,7,1.0,480,Fixtures and fittings,1874,1,nr,281,Hooks and hangers
+9607,Coat rail / coat rack,Supply & Install Coat rail / coat rack,7,1.0,480,Fixtures and fittings,1874,1,nr,1549,Coat rail / coat rack
+10182,Cubicle for toilets/showers,Supply & Install Cubicle for toilets/showers,7,1.0,480,Fixtures and fittings,1874,1,nr,1887,Cubicle for toilets/showers
+8743,Cupboard doors and frame,Supply & Install Cupboard doors and frame,7,1.0,480,Fixtures and fittings,1874,1,nr,1024,Cupboard doors and frame
+9140,Doc M Pack fixings incl. grab rails and support rails,Supply & Install Doc M Pack fixings incl. grab rails and support rails,7,1.0,480,Fixtures and fittings,1874,35,item,1287,Doc M Pack fittings
+9842,Drying rack,Supply & Install Drying rack,7,1.0,480,Fixtures and fittings,1874,1,nr,1682,Drying rack
+9664,Electric awning; including allowance for an electrical point,Supply & Install Electric awning; including allowance for an electrical point,7,1.0,480,Fixtures and fittings,1874,1,nr,1589,Electric awning
+8831,Employer supplied television ,Supply & Install Employer supplied television ,7,1.0,480,Fixtures and fittings,1874,1,nr,1057,Employer supplied television 
+8717,Fix satellite dish to wall,Supply & Install Fix satellite dish to wall,7,1.0,480,Fixtures and fittings,1874,1,nr,1869,Satellite dish
+10613,Freestanding screen wall ,Supply & Install Freestanding screen wall ,7,1.0,480,Fixtures and fittings,1874,1,nr,2081,Freestanding screen wall 
+8737,Full height cabinet / full height joinery unit,Supply & Install Full height cabinet / full height joinery unit,7,1.0,480,Fixtures and fittings,1874,1,nr,624,Joinery
+8601,Furniture unit,Supply & Install Furniture unit,7,,480,Fixtures and fittings,1874,35,item,709,"Furniture, fixtures and fittings"
+10423,General fitting allowance for misc client supply items,Supply & Install General fitting allowance for misc client supply items,7,1.0,480,Fixtures and fittings,1874,8,day,,
+9471,Hanging rail,Supply & Install Hanging rail,7,1.0,480,Fixtures and fittings,1874,2,m,1484,Hanging rail
+10310,Instrument wall hanger,Supply & Install Instrument wall hanger,7,1.0,480,Fixtures and fittings,1874,1,nr,1933,Instrument wall hanger
+9141,Internal seating,Supply & Install Internal seating,7,1.0,480,Fixtures and fittings,1874,1,nr,1288,Internal seating
+8655,Joinery,Supply & Install Joinery,7,,480,Fixtures and fittings,1874,35,item,624,Joinery
+9323,Joinery handles,Supply & Install Joinery handles,7,1.0,480,Fixtures and fittings,1874,1,nr,1405,Joinery handles
+9255,Ladder and fixings,Supply & Install Ladder and fixings,7,1.0,480,Fixtures and fittings,1874,1,nr,140,Ladder and fixings
+8555,Lightwell grill,Supply & Install Lightwell grill,7,,480,Fixtures and fittings,1874,4,m2,690,Lightwell Grill
+10706,Massage bed,Supply & Install Massage bed,7,1.0,480,Fixtures and fittings,1874,1,nr,2137,Massage bed
+10158,Office desk,Supply & Install Office desk,7,1.0,480,Fixtures and fittings,1874,1,nr,1872,Office desk
+9149,Planter,Supply & Install Planter,7,1.0,480,Fixtures and fittings,1874,1,nr,273,Timber wooden planter
+8735,Provisional sum for joinery,Supply & Install Provisional sum for joinery,7,1.0,480,Fixtures and fittings,1874,35,item,991,Provisional sum for joinery
+10486,Pulley maid,Supply & Install Pulley maid,7,1.0,480,Fixtures and fittings,1874,1,nr,2029,Pulley maid
+9108,Reception desk,Supply & Install Reception desk,7,1.0,480,Fixtures and fittings,1874,1,nr,1272,Reception desk
+10168,Refurbish existing coat hooks,Supply & Install Refurbish existing coat hooks,7,1.0,480,Fixtures and fittings,1874,1,nr,1879,Refurbish existing coat hooks 
+9743,Repair kitchen cabinet door,Supply & Install Repair kitchen cabinet door,7,1.0,480,Fixtures and fittings,1874,35,item,,
+9697,Shower rail,Supply & Install Shower rail,7,1.0,480,Fixtures and fittings,1874,1,nr,1602,Shower rail
+8598,Signage,Supply & Install Signage,7,,480,Fixtures and fittings,1874,35,item,662,Signage
+9406,Soap dispenser,Supply & Install Soap dispenser,7,1.0,480,Fixtures and fittings,1874,1,nr,1444,Soap dispenser
+9407,Soap dispenser holder,Supply & Install Soap dispenser holder,7,1.0,480,Fixtures and fittings,1874,1,nr,1446,Soap dispenser holder
+8423,Specialist item - PC,Supply & Install Specialist item - PC,7,,480,Fixtures and fittings,1874,35,item,636,Specialist item
+8597,Stainless steel letterboxes - PC,Supply & Install Stainless steel letterboxes - PC,7,,480,Fixtures and fittings,1874,35,item,1150,Letterbox
+9994,Timber screen,Supply & Install Timber screen,7,1.0,480,Fixtures and fittings,1874,4,m2,1787,Timber screen
+8970,Toilet brush,Supply & Install Toilet brush,7,1.0,480,Fixtures and fittings,1874,1,nr,1165,Toilet brush
+8969,Toilet roll holder,Supply & Install Toilet roll holder,7,1.0,480,Fixtures and fittings,1874,1,nr,279,Toilet roll holder
+9394,Bespoke fence; posts individually cut,Supply & Install Bespoke fence; posts individually cut,7,1.0,493,External works,1960,2,m,633,Fences
+10830,Composite fence (excl. fence posts and footings),Supply & Install Composite fence (excl. fence posts and footings),7,1.0,493,External works,1960,2,m,2207,Composite fence
+10668,Concrete post (excavation and concrete elsewhere),Supply & Install Concrete post (excavation and concrete elsewhere),7,1.0,493,External works,1960,1,nr,2112,Concrete post
+9401,Excavation and setting out concrete for fence post,Supply & Install Excavation and setting out concrete for fence post,7,1.0,493,External works,1960,1,nr,1442,Concrete for fence post footings
+9508,Fence post (excavation and concrete elsewhere),Supply & Install Fence post (excavation and concrete elsewhere),7,1.0,493,External works,1960,1,nr,1505,Fence post
+10669,Gravel board,Supply & Install Gravel board,7,1.0,493,External works,1960,1,nr,2113,Gravel board
+9554,Metal gate,Supply & Install Metal gate,7,1.0,493,External works,1960,1,nr,1881,Metal gate
+8417,Pedestrian Gate,Supply & Install Pedestrian Gate,7,,493,External works,1960,1,nr,633,Fences
+10170,Refurbish existing gates,Supply & Install Refurbish existing gates,7,1.0,493,External works,1960,1,nr,1882,Refurbish existing gates
+9825,Security Fence,Supply & Install Security Fence,7,1.0,493,External works,1960,2,m,1667,Security fence
+5804,Timber fence / timber fencing (excl. fence posts and footings),Supply & Install Timber fence / timber fencing (excl. fence posts and footings),7,,493,External works,1960,30,m,633,Fences
+8459,Timber gate,Supply & Install Timber gate,7,,493,External works,1960,1,nr,1385,Timber gates
+8384,Two coats of paint to fence,Supply & Install Two coats of paint to fence,7,,493,External works,1960,4,m2,2206,Two coats of paint to fence
+9060,Bike storage / bike shed / cycle storage,Supply & Install Bike storage / bike shed / cycle storage,7,1.0,493,External works,1961,1,nr,1241,Bike Storage
+9058,Bin storage / bin enclosure,Supply & Install Bin storage / bin enclosure,7,1.0,493,External works,1961,1,nr,1246,Bin storage / bin enclosure
+9059,Compost bin / compost storage,Supply & Install Compost bin / compost storage,7,1.0,493,External works,1961,1,nr,1242,Compost Bin / Compost Storage
+8388,External storage,Supply & Install External storage,7,,493,External works,1961,35,item,1147,External Storage
+9837,Garden room,Supply & Install Garden room,7,1.0,493,External works,1961,1,nr,1677,Garden room
+10671,Garden Workshop,Supply & Install Garden Workshop,7,1.0,493,External works,1961,35,item,2114,Garden workshop
+9057,Timber shed excluding base,Supply & Install Timber shed excluding base,7,1.0,493,External works,1961,1,nr,1245,Timber shed
+9569,Timber SIP Garden Room,Supply & Install Timber SIP Garden Room,7,1.0,493,External works,1961,1,nr,1528,Timber SIP Garden Room
+9730,Bespoke built in seating,Supply & Install Bespoke built in seating,7,1.0,493,External works,1867,1,nr,1627,Bespoke built in external seating
+9731,Bespoke planter,Supply & Install Bespoke planter,7,1.0,493,External works,1867,1,nr,1628,Bespoke planter
+9395,Built in BBQ,Supply & Install Built in BBQ,7,1.0,493,External works,1867,1,nr,1438,Built in BBQ
+9558,Car port,Supply & Install Car port,7,1.0,493,External works,1867,35,item,1525,Car port
+10873,Concrete bench; 2-3m length,Supply & Install Concrete bench; 2-3m length,7,1.0,493,External works,1867,1,nr,2227,Concrete bench
+10392,Garden arch to be relocated,Supply & Install Garden arch to be relocated,7,1.0,493,External works,1867,1,nr,,
+8904,Garden Pergola,Supply & Install Garden Pergola,7,1.0,493,External works,1867,1,nr,1121,Garden Pergola
+10340,Rotary Washing Line (exc. concrete base if required),Supply & Install Rotary Washing Line (exc. concrete base if required),7,1.0,493,External works,1867,1,nr,1959,Rotary Washing Line
+8516,Timber bench,Supply & Install Timber bench,7,,493,External works,1867,35,item,1031,Timber bench
+9070,Timber wooden planter,Supply & Install Timber wooden planter,7,1.0,493,External works,1867,1,nr,273,Timber wooden planter
+8339,Trellis,Supply & Install Trellis,7,1.0,493,External works,1867,4,m2,611,Trellis
+9570,150mm ready mix concrete slab to form bin store / shed base etc,Supply & Install 150mm ready mix concrete slab to form bin store / shed base etc,2,1.0,493,External works,1873,4,m2,1371,150mm concrete slab
+10488,40mm ready mix concrete mortar layer,Supply & Install 40mm ready mix concrete mortar layer,2,1.0,493,External works,1873,4,m2,2031,40mm ready mix concrete mortar layer
+10426,50mm ready mix concrete base for porcelain slabs,Supply & Install 50mm ready mix concrete base for porcelain slabs,2,1.0,493,External works,1873,4,m2,2007,50mm concrete slab (C25 grade)
+10259,600mm wide by 1000mm deep trench foundations (4-10m run),Supply & Install 600mm wide by 1000mm deep trench foundations (4-10m run),7,1.0,493,External works,1997,2,m,805,"Shuttering, concrete and mesh to 600mm wide by 1000mm deep trench foundations (4-10m run)"
+8424,Adjustable pedestal system for paving/decking,Supply & Install Adjustable pedestal system for paving/decking,2,,493,External works,1873,4,m2,638,Adjustable pedestals
+10720,Aluminium Deck Framing & Substructure,Supply & Install Aluminium Deck Framing & Substructure,2,1.0,493,External works,2094,4,m2,2145,Aluminium Deck Framing & Substructure
+9626,Artificial grass / artificial tuf,Supply & Install Artificial grass / artificial tuf,2,1.0,493,External works,1872,4,m2,10,Artificial turf
+10093,"Bespoke planter; blockwork, 1.2x4.8m; 750mm height","Supply & Install Bespoke planter; blockwork, 1.2x4.8m; 750mm height",7,1.0,493,External works,2005,1,nr,1850,"Bespoke planter; blockwork, 1.2x4.8m; 750mm height"
+10092,"Bespoke planter; blockwork, 1.37x10.4m; 750mm height","Supply & Install Bespoke planter; blockwork, 1.37x10.4m; 750mm height",7,1.0,493,External works,2005,1,nr,1849,Bespoke blockwork planter; 1.37x10.4m
+10155,Car park ground preparation,Supply & Install Car park ground preparation,2,1.0,493,External works,1985,4,m2,1665,External driveway ground preparation
+10313,"Ceramic tiles to terrace/balcony, excluding adhesive and grout","Supply & Install Ceramic tiles to terrace/balcony, excluding adhesive and grout",2,1.0,493,External works,1873,4,m2,337,Ceramic tiles to floor
+10153,Compact and level ground,Supply & Install Compact and level ground,2,1.0,493,External works,1985,4,m2,,
+10894,Concrete External Countertop / BBQ,Supply & Install Concrete External Countertop / BBQ,7,1.0,493,External works,1873,1,nr,2230,Concrete External Countertop / BBQ
+10258,Coping stones to garden wall,Supply & Install Coping stones to garden wall,7,1.0,493,External works,1997,2,m,52,Coping stones
+8425,Decking,Supply & Install Decking,2,,493,External works,2094,4,m2,637,Decking
+8921,Decorative loose stone finish,Supply & Install Decorative loose stone finish,7,1.0,493,External works,1873,4,m2,1133,Loose aggregate
+10640,Drip irrigation system,Supply & Install Drip irrigation system,7,1.0,493,External works,1872,38,Zone,2093,Drip irrigation system
+9822,Ducting / pipework for underground services,Supply & Install Ducting / pipework for underground services,7,1.0,493,External works,1982,2,m,1663,Ducting / pipes for underground services
+8834,Employer supplied paving,Supply & Install Employer supplied paving,7,1.0,493,External works,1873,4,m2,1060,Employer supplied paving
+9631,Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; depth not exceeding 1m,Supply & Install Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; depth not exceeding 1m,7,1.0,493,External works,1982,2,m,1436,Backfill; to 1m depth
+10586,Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; depth not exceeding 2m,Supply & Install Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; depth not exceeding 2m,7,1.0,493,External works,1982,2,m,1664,Backfill; to 2m depth
+10588,Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; depth not exceeding 6m,Supply & Install Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; depth not exceeding 6m,7,1.0,493,External works,1982,2,m,2073,Backfill; to 6m depth
+10587,Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; not exceeding 4m depth,Supply & Install Excavate and remove soil for service trench and backfill; by machine; width exceeding 0.30m; not exceeding 4m depth,7,1.0,493,External works,1982,2,m,2072,Backfill; to 4m depth
+9386,Excavate by hand and remove soil,Supply & Install Excavate by hand and remove soil,7,1.0,493,External works,1985,6,m3,242,Soil excavation
+10541,Excavation and setting out concrete for support post,Supply & Install Excavation and setting out concrete for support post,7,1.0,493,External works,2094,1,nr,2049,Excavation and setting out concrete for support post
+9560,External brick wall; one brick wide (215mm wide),Supply & Install External brick wall; one brick wide (215mm wide),7,1.0,493,External works,1997,4,m2,496,One brick wide brick wall
+9890,External cleaning on project completion,Supply & Install External cleaning on project completion,7,1.0,493,External works,1872,35,item,,
+10665,External downlight,Supply & Install External downlight,7,1.0,493,External works,1998,1,nr,83,Downlight
+9823,External driveway ground preparation,Supply & Install External driveway ground preparation,2,1.0,493,External works,1985,4,m2,1665,External driveway ground preparation
+9215,External glass balustrade,Supply & Install External glass balustrade,9,1.0,493,External works,1873,2,m,12,Glass balustrade
+9214,External handrail,Supply & Install External handrail,9,1.0,493,External works,1873,2,m,1193,Handrail
+9216,External metal balustrade,Supply & Install External metal balustrade,7,1.0,493,External works,1873,2,m,607,Metal balustrade
+8833,External paving ground preparation,Supply & Install External paving ground preparation,2,1.0,493,External works,1985,4,m2,1059,External paving ground preparation
+9481,External socket,Supply & Install External socket,7,1.0,493,External works,1998,31,point,1494,External socket
+9886,External switch,Supply & Install External switch,7,1.0,493,External works,1998,1,nr,1715,External switch
+8105,External tap,Supply & Install External tap,7,1.0,493,External works,1982,1,nr,456,External tap
+9884,Garden / external wall; brick pier; one brick thick; 215x215m,Supply & Install Garden / external wall; brick pier; one brick thick; 215x215m,7,1.0,493,External works,1997,2,m,30,Brick pier; one brick thick; 215x215mm
+10736,Garden retaining wall,Supply & Install Garden retaining wall,1,1.0,493,External works,1997,4,m2,689,Retaining Wall
+10617,"One brick wide brick wall (215mm wide, garden wall)","Supply & Install One brick wide brick wall (215mm wide, garden wall)",7,1.0,493,External works,1997,4,m2,496,One brick wide brick wall
+10345,One skin stone wall; 150mm thick; incl. lime mortar (1:3); courses average 150mm high; irregular coursing,Supply & Install One skin stone wall; 150mm thick; incl. lime mortar (1:3); courses average 150mm high; irregular coursing,7,1.0,493,External works,1997,4,m2,1571,One skin stone wall
+10703,Render to garden wall,Supply & Install Render to garden wall,7,1.0,493,External works,1997,4,m2,174,Render
+10485,Retaining wall,Supply & Install Retaining wall,7,1.0,493,External works,1997,4,m2,689,Retaining Wall
+10456,Single coat of paint to external wall,Supply & Install Single coat of paint to external wall,1,1.0,493,External works,1997,4,m2,856,Single coat of paint
+9883,Soldier course to garden wall,Supply & Install Soldier course to garden wall,7,1.0,493,External works,1997,2,m,1713,Soldier course
+10427,Wall Starter System Fixing Kit; External brick walls,Supply & Install Wall Starter System Fixing Kit; External brick walls,8,1.0,493,External works,1997,2,m,1353,Wall Starter System
+10539,External works; timber balustrade,Supply & Install External works; timber balustrade,7,1.0,493,External works,2093,2,m,1112,Timber balustrade
+8630,External Wall Light,Supply & Install External Wall Light,7,,493,External works,1998,1,nr,720,External wall light
+10832,Strip out existing and fit new external wall light,Supply & Install Strip out existing and fit new external wall light,7,1.0,493,External works,1998,1,nr,720,External wall light
+8929,Timber decking; joisted substructure,Supply & Install Timber decking; joisted substructure,2,1.0,493,External works,2094,4,m2,1136,Decking timber joisted substructure
+10540,Timber decking; steps/stairs,Supply & Install Timber decking; steps/stairs,7,1.0,493,External works,2094,1,nr,2048,Timber decking; steps/stairs
+9612,Garden edging,Supply & Install Garden edging,7,1.0,493,External works,1872,2,m,1552,Timber edging
+10639,Irrigation system,Supply & Install Irrigation system,7,1.0,493,External works,1872,38,Zone,2092,Irrigation system
+10360,Lawn protection,Supply & Install Lawn protection,2,1.0,493,External works,1872,4,m2,1969,Lawn protection
+8836,Living wall system,Supply & Install Living wall system,7,1.0,493,External works,1872,4,m2,1062,Living wall system
+8524,PC allowance for additional landscaping / garden works,Supply & Install PC allowance for additional landscaping / garden works,7,,493,External works,1872,35,item,619,Soft Landscaping by area
+8746,Planting perennial plants ,Supply & Install Planting perennial plants ,7,1.0,493,External works,1872,4,m2,619,Soft Landscaping by area
+8657,Plants,Supply & Install Plants,7,,493,External works,1872,1,nr,732,"Hedges, shrubs, plants, trees"
+8382,Soft Landscaping by area,Supply & Install Soft Landscaping by area,7,,493,External works,1872,4,m2,619,Soft Landscaping by area
+8949,Soft Landscaping by nr,Supply & Install Soft Landscaping by nr,7,1.0,493,External works,1872,1,nr,1148,Soft Landscaping by nr
+8595,Terracotta pot + plant,Supply & Install Terracotta pot + plant,7,,493,External works,1872,1,nr,619,Soft Landscaping by area
+9729,Topsoil,Supply & Install Topsoil,2,1.0,493,External works,1872,4,m2,1626,Topsoil
+8454,Tree on roof,Supply & Install Tree on roof,7,,493,External works,1872,1,nr,619,Soft Landscaping by area
+8656,Turf,Supply & Install Turf,2,,493,External works,1872,4,m2,619,Soft Landscaping by area
+10058,Provisional Sum for Garden Works,Supply & Install Provisional Sum for Garden Works,7,1.0,493,External works,2000,35,item,1832,Provisional Sum for Garden Works
+10843,Provisional sum for repairs to driveway,Supply & Install Provisional sum for repairs to driveway,7,1.0,493,External works,2000,35,item,,
+10638,Provisional sum for works to balconies,Supply & Install Provisional sum for works to balconies,7,1.0,493,External works,2000,35,item,,
+10235,Provisional sum for works to substation,Supply & Install Provisional sum for works to substation,7,1.0,493,External works,2000,35,item,1100,Provisional Sum
+10030,Sunken fire pit,Supply & Install Sunken fire pit,7,1.0,493,External works,2000,1,nr,1811,Sunken fire pit
+10443,Extra over; Porcelain tiles fitted into a new manhole tray for inset finishes,Supply & Install Extra over; Porcelain tiles fitted into a new manhole tray for inset finishes,7,1.0,493,External works,1873,4,m2,502,Porcelain tiles to floor
+10633,Form benches in brick,Supply & Install Form benches in brick,7,1.0,493,External works,1873,1,nr,2090,Benches in brick
+10643,Form benches in brick with concrete footing; including excavation and formwork,Supply & Install Form benches in brick with concrete footing; including excavation and formwork,7,1.0,493,External works,1873,1,nr,2096,Form benches in brick with concrete footing; including excavation and formwork 
+10091,Form concrete stairs,Supply & Install Form concrete stairs,7,1.0,493,External works,1873,2,m,1848,Concrete stairs
+9204,Form concrete steps,Supply & Install Form concrete steps,7,1.0,493,External works,1873,4,m2,1339,Form concrete steps
+10646,Form stairs in brick with concrete sub-base; including excavation and formwork,Supply & Install Form stairs in brick with concrete sub-base; including excavation and formwork,7,1.0,493,External works,1873,1,nr,2099,Form stairs in brick with concrete sub-base; including excavation and formwork 
+8416,Gabion Baskets,Supply & Install Gabion Baskets,7,,493,External works,1873,2,m,632,Gabion Baskets
+9950,Granite sett edging,Supply & Install Granite sett edging,6,1.0,493,External works,1873,2,m,1754,Granite sett edging
+9591,Gravel to perimeter,Supply & Install Gravel to perimeter,7,1.0,493,External works,1873,2,m,1308,Gravel to roof perimeter
+8590,Hard Landscaping (excl. ground preparation and sub base),Supply & Install Hard Landscaping (excl. ground preparation and sub base),2,,493,External works,1873,4,m2,157,Paving
+9138,Hardcore fill / sub base / sub-base,Supply & Install Hardcore fill / sub base / sub-base,2,1.0,493,External works,1873,4,m2,126,Hardcore
+9094,Jet wash paving area,Supply & Install Jet wash paving area,2,1.0,493,External works,1873,4,m2,660,Specialist cleaning
+9962,Kerb and haunching,Supply & Install Kerb and haunching,7,1.0,493,External works,1873,2,m,1767,Kerb and haunching
+8903,Large garden pond,Supply & Install Large garden pond,7,1.0,493,External works,1873,1,nr,1120,Large Garden pond
+9348,Low pressure water jet washing,Supply & Install Low pressure water jet washing,2,1.0,493,External works,1873,4,m2,660,Specialist cleaning
+10884,Mesh reinforcement to shed/store slab,Supply & Install Mesh reinforcement to shed/store slab,7,1.0,493,External works,1873,4,m2,359,Mesh reinforcement to slab
+10794,Patio area paving (excl. ground preparation and sub base),Supply & Install Patio area paving (excl. ground preparation and sub base),2,1.0,493,External works,1873,4,m2,157,Paving
+8658,Paving (excl. ground preparation and sub base),Supply & Install Paving (excl. ground preparation and sub base),7,,493,External works,1873,4,m2,157,Paving
+8722,Paving to floor,Supply & Install Paving to floor,7,1.0,493,External works,1873,4,m2,157,Paving
+9392,Paving to stairs,Supply & Install Paving to stairs,7,1.0,493,External works,1873,4,m2,157,Paving
+9952,PC allowance for additional hard landscaping / garden works,Supply & Install PC allowance for additional hard landscaping / garden works,7,1.0,493,External works,1873,35,item,1756,PC allowance for additional hard landscaping / garden works
+10424,Porcelain tiles to floor (External areas),Supply & Install Porcelain tiles to floor (External areas),2,1.0,493,External works,1873,4,m2,502,Porcelain tiles to floor
+9621,Prime Cost Sum for the supply of paving,Supply & Install Prime Cost Sum for the supply of paving,7,1.0,493,External works,1873,35,item,157,Paving
+9393,Re-pointing to garden walls,Supply & Install Re-pointing to garden walls,7,1.0,493,External works,1873,4,m2,759,Re-pointing to walls
+9827,Road Line Marking,Supply & Install Road Line Marking,7,1.0,493,External works,1873,35,item,1669,Road Line Marking
+8905,Small garden pond,Supply & Install Small garden pond,7,1.0,493,External works,1873,1,nr,1122,Small garden pond
+10302,Step refurbished and made good,Supply & Install Step refurbished and made good,7,1.0,493,External works,1873,1,nr,1928,Step refurbished and made good
+10367,Stone plinth at base of external door,Supply & Install Stone plinth at base of external door,7,1.0,493,External works,1873,2,m,1974,Stone plinth
+8701,Stone slabs,Supply & Install Stone slabs,2,1.0,493,External works,1873,4,m2,545,Stone tiles to floor
+8853,Sub-base for external paving,Supply & Install Sub-base for external paving,7,1.0,493,External works,1873,4,m2,1081,Sub-base for external paving
+10425,Tile adhesive and grouting to floor (External areas),Supply & Install Tile adhesive and grouting to floor (External areas),2,1.0,493,External works,1873,4,m2,1033,10mm flexible adhesive and MAPEI grouting 
+10314,Tile adhesive and grouting to terrace/balcony floor,Supply & Install Tile adhesive and grouting to terrace/balcony floor,2,1.0,493,External works,1873,4,m2,1033,10mm flexible adhesive and MAPEI grouting 
+8947,Timber sleeper,Supply & Install Timber sleeper,7,1.0,493,External works,1873,2,m,1329,Timber sleeper
+9663,Water feature,Supply & Install Water feature,7,1.0,493,External works,1873,1,nr,1588,Water feature
+10342,Pricing clarifications - External works,Supply & Install Pricing clarifications - External works,7,1.0,493,External works,2072,35,item,1961,Pricing clarifications - External works
+10343,Strip out wall; stone boundary wall; approx. 200mm thick,Supply & Install Strip out wall; stone boundary wall; approx. 200mm thick,7,1.0,493,External works,2073,4,m2,,
