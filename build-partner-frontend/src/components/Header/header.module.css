@@ -1,0 +1,17 @@
+.green {
+    background-color: red;
+}
+.root {
+    flex-grow: 1;
+}
+.appbar {
+    align-items: center;
+}
+.tab_header {
+    display: flex;
+    justify-content: center;
+}
+.tabs_root {
+    min-height: 150px;
+    max-height: 200px;
+}

@@ -1,0 +1,15 @@
+.project_header {
+    font-size: large;
+}
+.project_container {
+    width: 100%;
+}
+.project_questionnaire {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.question_wrapper_div {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 16px;
+}
