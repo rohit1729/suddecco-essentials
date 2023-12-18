@@ -60,127 +60,115 @@ import hairdresser_png from '../../images/areas/Hairdressers.png'
 import bunglow_4_bed_png from '../../images/areas/Bunaglow;4bed.png'
 import external_courtyard_png from '../../images/areas/External_courtyard.png'
 import raised_terrace_png from '../../images/areas/Raised_terrace.png'
+import { useSelector } from 'react-redux'
+import { Link } from 'react-router-dom';
 function AreaSelection() {
-    const [clickedIndex, setClickedIndex] = React.useState(-1);
-
-    const handleCardClick = (index: number) => {
-        return (event: React.MouseEvent) => {
-            setClickedIndex(index);
-            event.preventDefault();
-        }
-    };
-
-    const getBorder= (index: number) => {
-        if (clickedIndex == index){
-            return '1px solid red';
-        }else{
-            return ''
-        }
-    }
     return (
       <div style={{paddingBottom: "64px"}}>
         <Header tabValue="project" />
         <div className={style.project_container}>
             <div style={{display: "flex", justifyContent: "flex-end", marginLeft: "10%", marginRight: "5%", marginTop: "16px"}}>
+            <Link to="/areas">
                 <Button endIcon={<ArrowForwardOutlinedIcon />} style={{backgroundColor: "green", borderRadius: "24px", fontWeight: "550"}} variant="contained">Next
                 </Button>
+            </Link>
             </div>
             <h1 style={{marginTop: "12px"}}> Which rooms are you remodeling? </h1>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={bedroom_png} name="Bedroom"/>
-                <AreaSelectionBox image={bathroom_png} name="Bathroom"/>
-                <AreaSelectionBox image={kitchen_png} name="Kitchen"/>
-                <AreaSelectionBox image={kitchen_living_dining} name="Kitchen / Living / Dining"/>
+                <AreaSelectionBox image={bedroom_png} id='28769601' name="Bedroom"/>
+                <AreaSelectionBox image={bathroom_png} id='28769602' name="Bathroom"/>
+                <AreaSelectionBox image={kitchen_png} id='28769603' name="Kitchen"/>
+                <AreaSelectionBox image={kitchen_living_dining} id='28769604' name="Kitchen / Living / Dining"/>
             </div>
             <div className={style.standard_container} style={{marginTop: "48px"}}>
-                <AreaSelectionBox image={wc_png} name="WC"/>
-                <AreaSelectionBox image={lading_excl_stairs} name="Landing excl. stairs"/>
-                <AreaSelectionBox image={en_suite_png} name="En-suite"/>
-                <AreaSelectionBox image={utility_png} name="Utility"/>
+                <AreaSelectionBox image={wc_png} id='28769605' name="WC"/>
+                <AreaSelectionBox image={lading_excl_stairs} id='28769606' name="Landing excl. stairs"/>
+                <AreaSelectionBox image={en_suite_png} id='28769607' name="En-suite"/>
+                <AreaSelectionBox image={utility_png} id='28769608' name="Utility"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={entrance_hall_png} name="WC"/>
-                <AreaSelectionBox image={dining_room_png} name="Landing excl. stairs"/>
-                <AreaSelectionBox image={landing_incl_stairs_png} name="En-suite"/>
-                <AreaSelectionBox image={corridor_hall_png} name="Corridor Hall"/>
+                <AreaSelectionBox image={entrance_hall_png} id='28769609' name="Entrance Hall"/>
+                <AreaSelectionBox image={dining_room_png} id='28769610' name="Dining Room"/>
+                <AreaSelectionBox image={landing_incl_stairs_png} id='28769611' name="Landing incl. stairs"/>
+                <AreaSelectionBox image={corridor_hall_png} id='28769612' name="Corridor Hall"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={storage_cupboard_png} name="Storage Cupboard "/>
-                <AreaSelectionBox image={living_room_family_room_png} name="Living room/ Family room"/>
-                <AreaSelectionBox image={den_png} name="Den"/>
-                <AreaSelectionBox image={garden_png} name="Garden"/>
+                <AreaSelectionBox image={storage_cupboard_png} id='28786104' name="Storage Cupboard "/>
+                <AreaSelectionBox image={living_room_family_room_png} id='28786105' name="Living room/ Family room"/>
+                <AreaSelectionBox image={den_png} id='28786106' name="Den"/>
+                <AreaSelectionBox image={garden_png} id='28786107' name="Garden"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={lounge_png} name="Lounge"/>
-                <AreaSelectionBox image={boiler_cupboard_png} name="Boiler Cupboard"/>
-                <AreaSelectionBox image={shower_room_png} name="Shower room"/>
-                <AreaSelectionBox image={study_office_png} name="Study/ Office"/>
+                <AreaSelectionBox image={lounge_png} id='28786108' name="Lounge"/>
+                <AreaSelectionBox image={boiler_cupboard_png} id='28786109' name="Boiler Cupboard"/>
+                <AreaSelectionBox image={shower_room_png} id='28786110' name="Shower room"/>
+                <AreaSelectionBox image={study_office_png} id='28786111' name="Study/ Office"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={dressing_walking_closet_png} name="Dressing room/ Walk in closet"/>
-                <AreaSelectionBox image={storage_room_png} name="Storage room"/>
-                <AreaSelectionBox image={consulting_room_png} name="Consulting room"/>
-                <AreaSelectionBox image={therapy_room_png} name="Therapy room"/>
+                <AreaSelectionBox image={dressing_walking_closet_png} id='28786112' name="Dressing room/ Walk in closet"/>
+                <AreaSelectionBox image={storage_room_png} id='28786113' name="Storage room"/>
+                <AreaSelectionBox image={consulting_room_png} id='28786114' name="Consulting room"/>
+                <AreaSelectionBox image={therapy_room_png} id='28786115' name="Therapy room"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={porch_png} name="Porch"/>
-                <AreaSelectionBox image={driveway_parking_area_png} name="Driveway/ Parking area"/>
-                <AreaSelectionBox image={bootroom_cloakroom_png} name="Boot room/ Cloakroom"/>
-                <AreaSelectionBox image={snug_png} name="Snug"/>
+                <AreaSelectionBox image={porch_png} id='28952289' name="Porch"/>
+                <AreaSelectionBox image={driveway_parking_area_png} id='28786117' name="Driveway/ Parking area"/>
+                <AreaSelectionBox image={bootroom_cloakroom_png} id='28786118' name="Boot room/ Cloakroom"/>
+                <AreaSelectionBox image={snug_png} id='28786119' name="Snug"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={wetroom_png} name="Wet room"/>
-                <AreaSelectionBox image={roof_terrace_png} name="Roof terrace"/>
-                <AreaSelectionBox image={kitchenette_png} name="Kitchenette"/>
-                <AreaSelectionBox image={gym_png} name="Gym"/>
+                <AreaSelectionBox image={wetroom_png} id='28786120' name="Wet room"/>
+                <AreaSelectionBox image={roof_terrace_png} id='28786121' name="Roof terrace"/>
+                <AreaSelectionBox image={kitchenette_png} id='28786122' name="Kitchenette"/>
+                <AreaSelectionBox image={gym_png} id='28786123' name="Gym"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={media_cinema_room_png} name="Media room/ Cinema room"/>
-                <AreaSelectionBox image={office_reception_waiting_area_png} name="Office reception/ Waiting room"/>
-                <AreaSelectionBox image={eaves_storage_png} name="Eaves Storage"/>
-                <AreaSelectionBox image={garage_conversion_shell_png} name="Garage convesion (shell)"/>
+                <AreaSelectionBox image={media_cinema_room_png} id='28769601' name="Media room/ Cinema room"/>
+                <AreaSelectionBox image={office_reception_waiting_area_png} id='28769601' name="Office reception/ Waiting room"/>
+                <AreaSelectionBox image={eaves_storage_png} id='28769601' name="Eaves Storage"/>
+                <AreaSelectionBox image={garage_conversion_shell_png} id='28769601' name="Garage convesion (shell)"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={remodel_floor_plan_png} name="Remodel floor plan"/>
-                <AreaSelectionBox image={retail_unit_png} name="Retail unit"/>
-                <AreaSelectionBox image={pantry_png} name="Pantry"/>
-                <AreaSelectionBox image={communal_area_within_flat_png} name="Communal area within flats"/>
+                <AreaSelectionBox image={remodel_floor_plan_png} id='28769601' name="Remodel floor plan"/>
+                <AreaSelectionBox image={retail_unit_png} id='28769601' name="Retail unit"/>
+                <AreaSelectionBox image={pantry_png} id='28769601' name="Pantry"/>
+                <AreaSelectionBox image={communal_area_within_flat_png} id='28769601' name="Communal area within flats"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={external_png} name="External"/>
-                <AreaSelectionBox image={pricing_clarification_png} name="Pricing clarifications"/>
-                <AreaSelectionBox image={cafe_fit_out_png} name="Cafe fit out"/>
-                <AreaSelectionBox image={meeting_room_png} name="Meeting room"/>
+                <AreaSelectionBox image={external_png} id='28769601' name="External"/>
+                <AreaSelectionBox image={pricing_clarification_png} id='28769601' name="Pricing clarifications"/>
+                <AreaSelectionBox image={cafe_fit_out_png} id='28769601' name="Cafe fit out"/>
+                <AreaSelectionBox image={meeting_room_png} id='28769601' name="Meeting room"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={office_to_flat_png} name="Office to flat conversion"/>
-                <AreaSelectionBox image={studio_room_png} name="Studio room"/>
-                <AreaSelectionBox image={lightwell_courtyard_png} name="Lightwell/ courtyard"/>
-                <AreaSelectionBox image={plant_room_png} name="Plant room"/>
+                <AreaSelectionBox image={office_to_flat_png} id='28769601' name="Office to flat conversion"/>
+                <AreaSelectionBox image={studio_room_png} id='28769601' name="Studio room"/>
+                <AreaSelectionBox image={lightwell_courtyard_png} id='28769601' name="Lightwell/ courtyard"/>
+                <AreaSelectionBox image={plant_room_png} id='28769601' name="Plant room"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={office_to_flat_png} name="Office to flat conversion"/>
-                <AreaSelectionBox image={studio_room_png} name="Studio room"/>
-                <AreaSelectionBox image={lightwell_courtyard_png} name="Lightwell/ courtyard"/>
-                <AreaSelectionBox image={plant_room_png} name="Plant room"/>
+                <AreaSelectionBox image={office_to_flat_png} id='28769601' name="Office to flat conversion"/>
+                <AreaSelectionBox image={studio_room_png} id='28769601' name="Studio room"/>
+                <AreaSelectionBox image={lightwell_courtyard_png} id='28769601' name="Lightwell/ courtyard"/>
+                <AreaSelectionBox image={plant_room_png} id='28769601' name="Plant room"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={office_to_flat_png} name="Office to flat conversion"/>
-                <AreaSelectionBox image={studio_room_png} name="Studio room"/>
-                <AreaSelectionBox image={lightwell_courtyard_png} name="Lightwell/ courtyard"/>
-                <AreaSelectionBox image={plant_room_png} name="Plant room"/>
+                <AreaSelectionBox image={office_to_flat_png} id='28769601' name="Office to flat conversion"/>
+                <AreaSelectionBox image={studio_room_png} id='28769601' name="Studio room"/>
+                <AreaSelectionBox image={lightwell_courtyard_png} id='28769601' name="Lightwell/ courtyard"/>
+                <AreaSelectionBox image={plant_room_png} id='28769601' name="Plant room"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={studio_apartment_png} name="Studio apartment"/>
-                <AreaSelectionBox image={house_to_flat_conversion_png} name="House to flat conversion"/>
-                <AreaSelectionBox image={apartment_4_bed_png} name="Apartment: 4 bed"/>
-                <AreaSelectionBox image={shop_fit_out_png} name="Shop fit out"/>
+                <AreaSelectionBox image={studio_apartment_png} id='28769601' name="Studio apartment"/>
+                <AreaSelectionBox image={house_to_flat_conversion_png} id='28769601' name="House to flat conversion"/>
+                <AreaSelectionBox image={apartment_4_bed_png}  id='28769601' name="Apartment: 4 bed"/>
+                <AreaSelectionBox image={shop_fit_out_png} id='28769601' name="Shop fit out"/>
             </div>
             <div className={style.standard_container}>
-                <AreaSelectionBox image={hairdresser_png} name="Hairdressers"/>
-                <AreaSelectionBox image={bunglow_4_bed_png} name="Bunglow: 4 bed"/>
-                <AreaSelectionBox image={external_courtyard_png} name="External courtyard"/>
-                <AreaSelectionBox image={raised_terrace_png} name="Raised Terrace"/>
+                <AreaSelectionBox image={hairdresser_png} id='28769601' name="Hairdressers"/>
+                <AreaSelectionBox image={bunglow_4_bed_png} id='28769601' name="Bunglow: 4 bed"/>
+                <AreaSelectionBox image={external_courtyard_png} id='28769601' name="External courtyard"/>
+                <AreaSelectionBox image={raised_terrace_png} id='28769601' name="Raised Terrace"/>
             </div>
         </div>
       </div>

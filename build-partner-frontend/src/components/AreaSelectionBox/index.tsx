@@ -4,21 +4,34 @@ import Box from '@mui/material/Box';
 import { Button, Card, CardContent, IconButton, TextField } from '@mui/material';
 import RemoveIcon from '@mui/icons-material/Remove';
 import AddIcon from '@mui/icons-material/Add';
+import type { RootState } from '../../redux/store'
+import { useSelector, useDispatch } from 'react-redux'
+import { addSelectedArea, removeSelectedArea } from '../../redux/slices/projectSlice'
+import { store } from '../../redux/store'
+
 
 const AreaSelectionBox = (props: any) => {
     const [count, setCount] = React.useState(0);
+    const dispatch = useDispatch()
+    const values = store.getState().project.area_selection
 
     const handleChangeClick = (add: boolean) => {
+        console.log("**********");
+        console.log(values);
         return (event: React.MouseEvent) => {
+            const id_i: number = parseInt(props.id)
             if (add){
                 setCount(count+1);
+                dispatch(addSelectedArea(id_i));
             }else{
+                dispatch(removeSelectedArea(id_i));
                 setCount(count-1);
             }
             event.preventDefault();
         }
     };
 
+    console.log("render called");
     return (
       <div >
         <Box sx={{ width: 240, height: 240, marginLeft: "16px" }}>

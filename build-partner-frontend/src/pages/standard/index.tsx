@@ -14,7 +14,6 @@ function Standard() {
     const [clickedIndex, setClickedIndex] = React.useState(-1);
 
     const handleCardClick = (index: number) => {
-        console.log("hohoh");
         return (event: React.MouseEvent) => {
             setClickedIndex(index);
             event.preventDefault();
