@@ -1,5 +1,5 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
-import { CreateProjectRequestBody } from './apiTypes';
+import { CreateProjectRequestBody, ProjectArea } from './apiTypes';
 
 export const jsonServerApi = createApi({
   reducerPath: 'jsonServerApi',
@@ -9,13 +9,17 @@ export const jsonServerApi = createApi({
         query: (body: CreateProjectRequestBody) => ({
             url: `projects`,
             method: 'POST',
-            body: { body },
+            body: JSON.stringify(body),
             headers: {
               "Content-type": "application/json; charset=UTF-8",
             },
         })
-    })
+    }),
+    fetchProjectAreas: builder.query<ProjectArea[], number>({
+      query: (project_id) => `projects/${project_id}/areas`,
+      transformResponse: (response: any) => response.data.areas
+    }),
   }),
 });
 
-export const { useCreateProjectMutation } = jsonServerApi;
+export const { useCreateProjectMutation, useFetchProjectAreasQuery } = jsonServerApi;

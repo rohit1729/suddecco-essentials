@@ -3,12 +3,17 @@ import ReactDOM from 'react-dom/client';
 import Header from '../../components/Header';
 import type { RootState } from '../../redux/store'
 import { useSelector, useDispatch } from 'react-redux'
-import { useCreateProjectMutation } from '../../services/jsonServerApi';
-import { CreateProjectRequestBody } from '../../services/apiTypes';
+import { useCreateProjectMutation, useFetchProjectAreasQuery } from '../../services/jsonServerApi';
+import { CreateProjectRequestBody, ProjectArea } from '../../services/apiTypes';
+import { updateProjectDetail, updateProjectAreas } from '../../redux/slices/projectSlice';
 import { store } from '../../redux/store'
+QueryP
 
 function Area() {
-    const  [ createProject, { isLoading} ] = useCreateProjectMutation();
+    const  [ createProject ] = useCreateProjectMutation();
+    const project_id: number = -1;
+    const { data, error, isLoading } =  useFetchProjectAreasQuery(project_id, {skip: project_id == -1})
+    const dispatch = useDispatch()
 
     const handleClick = () => {
       return (event: React.MouseEvent) => {
@@ -16,7 +21,7 @@ function Area() {
       }
     };
 
-    function submitProject(){
+    async function submitProject(){
       const selected_areas: number[] = []
       const area_map = store.getState().project.area_selection
       for (const key in area_map){
@@ -31,8 +36,18 @@ function Area() {
         user_id: 1,
         areas: selected_areas
       }
-      const results = createProject(body)
-      console.log(results)
+      const results = await createProject(body)
+      dispatch(updateProjectDetail(results))
+      
+      const project_id = store.getState().project.id;
+      let areas: ProjectArea[] = [];
+      console.log("$$$$$$$$$")
+      if (data != undefined){
+        areas = data
+      }
+      dispatch(updateProjectAreas(areas))
+      console.log("##############")
+      console.log(store.getState().project.areas)
     }
 
     return (

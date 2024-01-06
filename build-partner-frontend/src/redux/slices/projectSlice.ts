@@ -1,8 +1,10 @@
 import { createSlice } from '@reduxjs/toolkit'
 import type { PayloadAction } from '@reduxjs/toolkit'
 import { stat } from 'fs'
+import { ProjectArea } from '../../services/apiTypes'
 
 export interface ProjectState {
+  id: number,
   name: string,
   postcode: string,
   first_line_address: string,
@@ -17,6 +19,8 @@ export interface ProjectState {
 
 export interface AreaState {
     id: number,
+    project_id: number,
+    reference_area_id: number,
     name: string,
     width: number,
     depth: number,
@@ -56,6 +60,7 @@ export interface MaterialState {
 }
 
 const initialState: ProjectState = {
+  id: -1,
   name: "",
   postcode: "",
   first_line_address: "",
@@ -97,16 +102,53 @@ export const projectSlice = createSlice({
       }
     },
     addProjectDetail: (state, action: PayloadAction<{name: string, postcode: string, first_line_address: string, second_line_address: string, city: string}>) => {
-      state.name = action.payload.name
-      state.postcode = action.payload.postcode
-      state.first_line_address = action.payload.first_line_address
-      state.second_line_address = action.payload.second_line_address
-      state.city = action.payload.city
-    }
+      return {
+        ...state,
+        name: action.payload.name,
+        postcode: action.payload.postcode,
+        first_line_address: action.payload.first_line_address,
+        second_line_address: action.payload.second_line_address,
+        city: action.payload.city
+      }
+    },
+    updateProjectDetail: (state, action: PayloadAction<any>) => {
+      console.log(action.payload)
+      return {
+        ...state,
+        id: action.payload.data.project.id
+      }
+    },
+    updateProjectAreas: (state, action: PayloadAction<ProjectArea[]>) => {
+      console.log(action.payload)
+      const areas = action.payload
+      const areas_state: AreaState[] = []
+      areas.forEach(area => {
+        const area_state: AreaState = {
+          id: area.id,
+          name: area.name,
+          width: Number(area.width),
+          height: Number(area.height),
+          depth: Number(area.depth),
+          wall_area: Number(area.wall_area),
+          floor_area: Number(area.floor_area),
+          ceiling_area: Number(area.ceiling_area),
+          doors: area.doors,
+          windows: area.windows,
+          perimeter: Number(area.perimeter),
+          project_id: area.project_id,
+          reference_area_id: area.reference_area_id,
+        }
+        areas_state.push(area_state);
+      });
+      return {
+        ...state,
+        area: areas_state
+      }
+    },
   }
 })
 
 // Action creators are generated for each case reducer function
-export const { addSelectedArea, removeSelectedArea, addProjectDetail } = projectSlice.actions
+export const { addSelectedArea, removeSelectedArea, addProjectDetail, updateProjectDetail, updateProjectAreas } = projectSlice.actions
 
 export default projectSlice.reducer
