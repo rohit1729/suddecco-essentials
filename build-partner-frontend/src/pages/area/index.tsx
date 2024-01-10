@@ -76,9 +76,9 @@ const Area = () => {
                     <TableRow>
                       <TableCell>Remodel fit out</TableCell>
                       <TableCell align="right">Width</TableCell>
-                      <TableCell align="right">Depth&nbsp;(g)</TableCell>
-                      <TableCell align="right">Height&nbsp;(g)</TableCell>
-                      <TableCell align="right">GIFA m2&nbsp;(g)</TableCell>
+                      <TableCell align="right">Depth&nbsp;</TableCell>
+                      <TableCell align="right">Height&nbsp;</TableCell>
+                      <TableCell align="right">GIFA m2&nbsp;</TableCell>
                     </TableRow>
                   </TableHead>
                   <TableBody>
