@@ -17,7 +17,7 @@ export const jsonServerApi = createApi({
     }),
     fetchProjectAreas: builder.query<ProjectArea[], number>({
       query: (project_id) => `projects/${project_id}/areas`,
-      transformResponse: (response: any) => response.data.areas
+      transformResponse: (response: any) => response.areas
     }),
   }),
 });

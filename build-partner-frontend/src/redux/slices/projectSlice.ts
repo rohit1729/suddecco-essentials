@@ -115,11 +115,11 @@ export const projectSlice = createSlice({
       console.log(action.payload)
       return {
         ...state,
-        id: action.payload.data.project.id
+        id: action.payload.project.id
       }
     },
     updateProjectAreas: (state, action: PayloadAction<ProjectArea[]>) => {
-      console.log(action.payload)
+      //console.log(action.payload)
       const areas = action.payload
       const areas_state: AreaState[] = []
       areas.forEach(area => {
@@ -140,9 +140,11 @@ export const projectSlice = createSlice({
         }
         areas_state.push(area_state);
       });
+      console.log("haha area state");
+      console.log(areas_state);
       return {
         ...state,
-        area: areas_state
+        areas: areas_state
       }
     },
   }
