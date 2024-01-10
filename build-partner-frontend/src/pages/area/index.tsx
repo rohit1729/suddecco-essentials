@@ -8,9 +8,17 @@ import { CreateProjectRequestBody, ProjectArea } from '../../services/apiTypes';
 import { updateProjectDetail, updateProjectAreas } from '../../redux/slices/projectSlice';
 import { store } from '../../redux/store'
 import { createProject, getProjectAreas } from '../../services/apis';
+import Table from '@mui/material/Table';
+import TableBody from '@mui/material/TableBody';
+import TableCell from '@mui/material/TableCell';
+import TableContainer from '@mui/material/TableContainer';
+import TableHead from '@mui/material/TableHead';
+import TableRow from '@mui/material/TableRow';
+import Paper from '@mui/material/Paper';
+import CancelIcon from '@mui/icons-material/Cancel';
 
 const Area = () => {
-    const [clicked, setClicked] = useState(false);
+    const [fetchedArea, setFetchedArea] = useState(false);
     const dispatch = useDispatch()
 
     const handleClick = () => {
@@ -45,6 +53,7 @@ const Area = () => {
       dispatch(updateProjectAreas(project_areas_response.data.areas));
       console.log("printing areas");
       console.log(store.getState().project.areas);
+      setFetchedArea(true);
     }
 
 
@@ -52,10 +61,48 @@ const Area = () => {
     return (
       <div >
         <Header tabValue="areas" />
-        <p>HAHA FROM AREA</p>
         <div>
-          <button onClick={handleClick()}> Submit Project </button>
+          {!fetchedArea ? (
+            <div>
+              <div>
+                <button onClick={handleClick()}> Submit Project </button>
+              </div>
+            </div>
+          ) : (
+            <div>
+              <TableContainer component={Paper}>
+                <Table sx={{ minWidth: 650 }} aria-label="simple table">
+                  <TableHead>
+                    <TableRow>
+                      <TableCell>Remodel fit out</TableCell>
+                      <TableCell align="right">Width</TableCell>
+                      <TableCell align="right">Depth&nbsp;(g)</TableCell>
+                      <TableCell align="right">Height&nbsp;(g)</TableCell>
+                      <TableCell align="right">GIFA m2&nbsp;(g)</TableCell>
+                    </TableRow>
+                  </TableHead>
+                  <TableBody>
+                    {store.getState().project.areas.map((row) => (
+                      <TableRow
+                        key={row.id}
+                        sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
+                      >
+                        <TableCell component="th" scope="row">
+                          {row.name}
+                        </TableCell>
+                        <TableCell align="right">{row.width}</TableCell>
+                        <TableCell align="right">{row.depth}</TableCell>
+                        <TableCell align="right">{row.height}</TableCell>
+                        <TableCell align="right"><CancelIcon style={{ color: 'red' }}/></TableCell>
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </div>
+          )}
         </div>
+ 
       </div>
     );
 }
