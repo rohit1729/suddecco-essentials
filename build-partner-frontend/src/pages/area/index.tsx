@@ -14,8 +14,8 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
+import AreaRow from '../../components/arearow';
 import Paper from '@mui/material/Paper';
-import CancelIcon from '@mui/icons-material/Cancel';
 
 const Area = () => {
     const [fetchedArea, setFetchedArea] = useState(false);
@@ -83,18 +83,7 @@ const Area = () => {
                   </TableHead>
                   <TableBody>
                     {store.getState().project.areas.map((row) => (
-                      <TableRow
-                        key={row.id}
-                        sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
-                      >
-                        <TableCell component="th" scope="row">
-                          {row.name}
-                        </TableCell>
-                        <TableCell align="right">{row.width}</TableCell>
-                        <TableCell align="right">{row.depth}</TableCell>
-                        <TableCell align="right">{row.height}</TableCell>
-                        <TableCell align="right"><CancelIcon style={{ color: 'red' }}/></TableCell>
-                      </TableRow>
+                      <AreaRow area={row}></AreaRow>
                     ))}
                   </TableBody>
                 </Table>
