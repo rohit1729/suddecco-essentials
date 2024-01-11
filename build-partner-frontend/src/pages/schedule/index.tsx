@@ -1,10 +1,12 @@
-import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material';
+import { Accordion, AccordionDetails, AccordionSummary, MenuItem, Paper, Select, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material';
 import Header from '../../components/Header';
 import React, { useState, useEffect }  from 'react';
 import { store } from '../../redux/store'
 import { getProjectTasks } from '../../services/apis';
 import { updateProjectAreaStageTasks } from '../../redux/slices/projectSlice';
 import { useDispatch } from 'react-redux';
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
+import ScheduleRow from '../../components/schedulerow';
 
 function Schedule() {
     const [fetchedTask, setFetchedTask] = useState(false);
@@ -20,9 +22,10 @@ function Schedule() {
         console.log('Effect triggered on button click');
         const project_id = store.getState().project.id;
         const response = await getProjectTasks(project_id);
-        dispatch(updateProjectAreaStageTasks(response.data))
+        dispatch(updateProjectAreaStageTasks(response.data["areas"]))
         console.log("after project task dispatch");
         console.log(store.getState().project.areas_stages_tasks);
+        setFetchedTask(true)
     }
   
     return (
@@ -36,22 +39,50 @@ function Schedule() {
             </div>
           ) : (
             <div>
-              <TableContainer component={Paper}>
-                <Table sx={{ minWidth: 650 }} aria-label="simple table">
-                  <TableHead>
-                    <TableRow>
-                      <TableCell>Remodel fit out</TableCell>
-                      <TableCell align="right">Width</TableCell>
-                      <TableCell align="right">Depth&nbsp;</TableCell>
-                      <TableCell align="right">Height&nbsp;</TableCell>
-                      <TableCell align="right">GIFA m2&nbsp;</TableCell>
-                    </TableRow>
-                  </TableHead>
-                  <TableBody>
-
-                  </TableBody>
-                </Table>
-              </TableContainer>
+                {store.getState().project.areas_stages_tasks.map((row) => (
+                    <Accordion>
+                        <AccordionSummary
+                        expandIcon={<ArrowDropDownIcon />}
+                        aria-controls="panel2-content"
+                        id="panel2-header"
+                        >
+                            <Typography>{row.area.name}</Typography>
+                        </AccordionSummary>
+                        <AccordionDetails>
+                            {row.stages.map((stage) => (
+                                <Accordion>
+                                    <AccordionSummary
+                                    expandIcon={<ArrowDropDownIcon />}
+                                    aria-controls="panel2-content"
+                                    id="panel2-header"
+                                    >
+                                      <Typography>{stage.stage.name}</Typography>
+                                    </AccordionSummary>
+                                    <AccordionDetails>
+                                    <Table sx={{ minWidth: 650 }} aria-label="simple table">
+                                      <TableHead>
+                                        <TableRow key="area_table_header">
+                                          <TableCell>Task</TableCell>
+                                          <TableCell align="right">Specification</TableCell>
+                                          <TableCell align="right">Qty&nbsp;</TableCell>
+                                          <TableCell align="right">Labour cost/unit&nbsp;</TableCell>
+                                          <TableCell align="right">Material cost/unit&nbsp;</TableCell>
+                                          <TableCell align="right">Unit total cost/unit&nbsp;</TableCell>
+                                          <TableCell align="right">Line Total&nbsp;</TableCell>
+                                        </TableRow>
+                                      </TableHead>
+                                      <TableBody>
+                                        {stage.tasks.map((task) => (
+                                          <ScheduleRow task={task}/>
+                                        ))}
+                                      </TableBody>
+                                    </Table>
+                                    </AccordionDetails>
+                                </Accordion>
+                            ))}
+                        </AccordionDetails>
+                    </Accordion>
+                ))}
             </div>
           )}
       </div>

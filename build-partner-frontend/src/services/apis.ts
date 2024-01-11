@@ -18,3 +18,13 @@ export const getProjectTasks =  async(project_id: number) => {
     const response = await axios.get(`http://localhost:3000/projects/${project_id}/tasks`);
     return response;
 };
+
+export const getStageTasks =  async(stage_id: number) => {
+    const response = await axios.get(`http://localhost:3000/stages/${stage_id}/tasks`);
+    return response;
+};
+
+export const getCategoryMaterials = async(category_id: number) => {
+    const response = await axios.get(`http://localhost:3000/material_categories/${category_id}/materials`)
+    return response;
+}

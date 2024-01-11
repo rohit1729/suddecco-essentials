@@ -51,19 +51,24 @@ function Project() {
 
     const getFieldValue = (id: string) => {
         if (id == "project_name"){
-            return store.getState().project.name
+            project_name = store.getState().project.name
+            return project_name;
         }
         if (id == "project_postcode"){
-            return store.getState().project.postcode
+            project_postcode = store.getState().project.postcode
+            return project_postcode;
         }
         if (id == "project_first_line_address"){
-            return store.getState().project.first_line_address
+            project_first_line_address = store.getState().project.first_line_address
+            return project_first_line_address;
         }
         if (id == "project_second_line_address"){
-            return store.getState().project.second_line_address
+            project_second_line_address = store.getState().project.second_line_address
+            return project_second_line_address;
         }
         if (id == "project_city"){
-            return store.getState().project.city
+            project_city = store.getState().project.city
+            return project_city;
         }
         return ""
     }
