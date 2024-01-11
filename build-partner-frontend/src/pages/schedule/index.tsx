@@ -59,16 +59,16 @@ function Schedule() {
                                       <Typography>{stage.stage.name}</Typography>
                                     </AccordionSummary>
                                     <AccordionDetails>
-                                    <Table sx={{ minWidth: 650 }} aria-label="simple table">
+                                    <Table sx={{ minWidth: 650 }} aria-label="simple table" style={{tableLayout:"fixed"}}>
                                       <TableHead>
                                         <TableRow key="area_table_header">
-                                          <TableCell>Task</TableCell>
-                                          <TableCell align="right">Specification</TableCell>
-                                          <TableCell align="right">Qty&nbsp;</TableCell>
-                                          <TableCell align="right">Labour cost/unit&nbsp;</TableCell>
-                                          <TableCell align="right">Material cost/unit&nbsp;</TableCell>
-                                          <TableCell align="right">Unit total cost/unit&nbsp;</TableCell>
-                                          <TableCell align="right">Line Total&nbsp;</TableCell>
+                                          <TableCell colSpan={2} align="left">Task</TableCell>
+                                          <TableCell colSpan={2} align="left">Specification</TableCell>
+                                          <TableCell align="left">Qty&nbsp;</TableCell>
+                                          <TableCell align="left">Labour cost/unit&nbsp;</TableCell>
+                                          <TableCell align="left">Material cost/unit&nbsp;</TableCell>
+                                          <TableCell align="left">Unit total cost/unit&nbsp;</TableCell>
+                                          <TableCell align="left">Line Total&nbsp;</TableCell>
                                         </TableRow>
                                       </TableHead>
                                       <TableBody>
