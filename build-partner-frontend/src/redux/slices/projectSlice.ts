@@ -13,8 +13,7 @@ export interface ProjectState {
   user_id: number,
   area_selection: Record<number, number>,
   areas: AreaState[],
-  tasks: TaskState[],
-  materials: MaterialState[]
+  areas_stages_tasks: AreaStageTaskResponse[]
 }
 
 export interface AreaState {
@@ -31,6 +30,28 @@ export interface AreaState {
     doors: number,
     windows: number,
     perimeter: number
+}
+
+export interface TaskResponse {
+  task: TaskState,
+  material: MaterialState,
+  pricing: PricingState
+}
+
+export interface StageResponse {
+  stage: StageState,
+  tasks: TaskResponse[]
+}
+
+export interface AreaStageTaskResponse {
+  area: AreaState,
+  stages: StageResponse[]
+}
+
+export interface StageState {
+  id: number,
+  name: string,
+  order: number,
 }
 
 export interface TaskState {
@@ -59,6 +80,12 @@ export interface MaterialState {
     price: number
 }
 
+export interface PricingState {
+  quantity: number,
+  labour_unit_cost: number,
+  material_unit_cost: number
+}
+
 const initialState: ProjectState = {
   id: -1,
   name: "",
@@ -69,8 +96,7 @@ const initialState: ProjectState = {
   user_id: -1,
   area_selection: {},
   areas: [],
-  tasks: [],
-  materials: []
+  areas_stages_tasks: []
 }
 
 export const projectSlice = createSlice({
@@ -147,10 +173,18 @@ export const projectSlice = createSlice({
         areas: areas_state
       }
     },
+    updateProjectAreaStageTasks: (state, action: PayloadAction <AreaStageTaskResponse[]>) => {
+      console.log("area stage tasks logging");
+      console.log(action.payload);
+      return {
+        ...state,
+        areas_stages_tasks: action.payload
+      }
+    }
   }
 })
 
 // Action creators are generated for each case reducer function
-export const { addSelectedArea, removeSelectedArea, addProjectDetail, updateProjectDetail, updateProjectAreas } = projectSlice.actions
+export const { addSelectedArea, removeSelectedArea, addProjectDetail, updateProjectDetail, updateProjectAreas, updateProjectAreaStageTasks } = projectSlice.actions
 
 export default projectSlice.reducer

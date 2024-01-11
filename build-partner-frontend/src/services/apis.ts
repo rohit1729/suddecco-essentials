@@ -13,3 +13,8 @@ export const getProjectAreas =  async(project_id: number) => {
     const response = await axios.get(`http://localhost:3000/projects/${project_id}/areas`);
     return response;
 };
+
+export const getProjectTasks =  async(project_id: number) => {
+    const response = await axios.get(`http://localhost:3000/projects/${project_id}/tasks`);
+    return response;
+};

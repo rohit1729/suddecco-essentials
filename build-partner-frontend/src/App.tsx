@@ -11,6 +11,7 @@ import Team from "./pages/team";
 import Standard from "./pages/standard";
 import BuildType from "./pages/buildtype";
 import AreaSelection from "./pages/areaselection";
+import Schedule from "./pages/schedule";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/project" element={<Project />} />
         <Route path="/areas" element={<Area />} />
         <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/schedule" element={<Schedule />} />
         <Route path="/team" element={<Team />} />
         <Route path="/standard" element={<Standard/>} />
         <Route path="/buildtype" element={<BuildType/>} />

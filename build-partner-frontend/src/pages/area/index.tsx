@@ -56,8 +56,6 @@ const Area = () => {
       setFetchedArea(true);
     }
 
-
-
     return (
       <div >
         <Header tabValue="areas" />
@@ -73,7 +71,7 @@ const Area = () => {
               <TableContainer component={Paper}>
                 <Table sx={{ minWidth: 650 }} aria-label="simple table">
                   <TableHead>
-                    <TableRow>
+                    <TableRow key="area_table_header">
                       <TableCell>Remodel fit out</TableCell>
                       <TableCell align="right">Width</TableCell>
                       <TableCell align="right">Depth&nbsp;</TableCell>
@@ -83,7 +81,7 @@ const Area = () => {
                   </TableHead>
                   <TableBody>
                     {store.getState().project.areas.map((row) => (
-                      <AreaRow area={row}></AreaRow>
+                      <AreaRow key={row.id} area={row}></AreaRow>
                     ))}
                   </TableBody>
                 </Table>
