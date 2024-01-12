@@ -56,11 +56,17 @@ const Area = () => {
       setFetchedArea(true);
     }
 
+    const areaAvailable = () => {
+      if (fetchedArea) return true;
+      if (store.getState()?.project?.areas.length > 0) return true;
+      return false;
+    }
+
     return (
       <div >
         <Header tabValue="areas" />
         <div>
-          {!fetchedArea ? (
+          {!areaAvailable() ? (
             <div>
               <div>
                 <button onClick={handleClick()}> Submit Project </button>
