@@ -73,7 +73,7 @@ function Schedule() {
                                       </TableHead>
                                       <TableBody>
                                         {stage.tasks.map((task) => (
-                                          <ScheduleRow task={task}/>
+                                          <ScheduleRow task={task} area_id={row.area.id} />
                                         ))}
                                       </TableBody>
                                     </Table>

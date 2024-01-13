@@ -28,3 +28,8 @@ export const getCategoryMaterials = async(category_id: number) => {
     const response = await axios.get(`http://localhost:3000/material_categories/${category_id}/materials`)
     return response;
 }
+
+export const getAreaComponent = async(aread_id: number, component_id: number) => {
+    const response = await axios.get(`http://localhost:3000/areas/${aread_id}?component_area_id=${component_id}`)
+    return response;
+}

@@ -3,8 +3,9 @@ import TableCell from '@mui/material/TableCell';
 import CancelIcon from '@mui/icons-material/Cancel';
 import { InputAdornment, LinearProgress, MenuItem, Select, TextField } from '@mui/material';
 import React, { useRef, useState } from 'react';
-import { getCategoryMaterials, getStageTasks } from '../../services/apis';
+import { getAreaComponent, getCategoryMaterials, getStageTasks } from '../../services/apis';
 import { MaterialState, TaskState } from '../../redux/slices/projectSlice';
+import { getValue } from '@testing-library/user-event/dist/utils';
 
 
 const ScheduleRow = (props: any) => {
@@ -12,8 +13,10 @@ const ScheduleRow = (props: any) => {
     const [task_materials, setTaskMaterials] = useState([])
     const task_ref = React.useRef<TaskState | null>(null);
     const material_ref = React.useRef<MaterialState | null>(null);
-    const [task_loading, setTaskLoading] = useState(false);
+    const [task_loading, setTask_loading] = useState(false);
     const [material_loading, setMaterialLoading] = useState(false);
+    const [quantity, setQuantity ] = useState(-1);
+    const [toggle, setToggle] = useState(false);
     
     console.log("printing props hahs");
     console.log(props);
@@ -33,9 +36,10 @@ const ScheduleRow = (props: any) => {
     };
     
     const fetchTasks = async(stage_id: number) => {
+        setTask_loading(true);
         const results = await getStageTasks(stage_id);
         setStageTasks(results.data);
-        setTaskLoading(false);
+        setTask_loading(false);
     }
 
     const fetchMaterial = async(category_id: any) => {
@@ -50,19 +54,41 @@ const ScheduleRow = (props: any) => {
         setMaterialLoading(false);
     }
 
+    const fetchAreaComponent = async(component_area_id: number) => {
+        const area_id = props.area_id;
+        if (area_id){
+            const results = await getAreaComponent(props.area_id, component_area_id);
+            const value = results.data.value;
+            setQuantity(value);
+        }
+
+    }
+
     const taskHandleChange = (e: any) => {
         e.preventDefault();
         const tasks = stage_tasks.filter((stage_task) => {
             return stage_task["id"] == e.target.value;
         })
+        material_ref.current = null;
         task_ref.current = tasks[0];
-        //fetchMaterial(task_ref.current["material_category_id"]);
+        fetchAreaComponent(task_ref.current["component_area_id"]);
+        fetchMaterial(task_ref.current["material_category_id"]);
     }
 
     const materialHandleChange = (e: any) => {
         e.preventDefault();
-        material_ref.current = e.target.value
+        const materials = task_materials.filter((task_material) => {
+            return task_material["id"] == e.target.value;
+        })
+        material_ref.current = materials[0];
+        setToggle(toggle!);
     }
+
+    const setCustomQuantity = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+        const value = Number.parseFloat(event.target.value);
+        setQuantity(value);
+    }
+
 
     const getTasksMenuItems = () => {
         if (stage_tasks.length > 0){
@@ -114,10 +140,14 @@ const ScheduleRow = (props: any) => {
     }
 
     const getTaskMaterialUnitPrice = () => {
-        if (task_ref.current != null){
-            return task_ref.current["material_unit_cost"];
+        if (task_ref.current == null){
+            return props.task.pricing.material_unit_cost;
+        }else{
+            if (material_ref.current != null){
+                return material_ref.current["price"];
+            }
+            return 0;
         }
-        return props.task.pricing.material_unit_cost;
     }
 
     const getTaskTotalUnitPrice = () => {
@@ -139,6 +169,13 @@ const ScheduleRow = (props: any) => {
         return props.task.task.id;
     }
 
+    const getQuantityValue = () => {
+        if (quantity == -1){
+            return getDefaultQuantity();
+        }
+        return quantity;
+    }
+    
     return (
         <TableRow>
             <TableCell colSpan={2} size='small'>
@@ -169,16 +206,16 @@ const ScheduleRow = (props: any) => {
                     style={{maxWidth: "100%", width: "100%"}}
                 >
                     {getMaterialMenuItems()}
-                {material_loading? (<LinearProgress style={{marginTop: "2px"}} />): (
-                    <span/>
-                )}
                 </Select> 
                 ): (
                     <div></div>
                 )}
+                {material_loading? (<LinearProgress style={{marginTop: "2px"}} />): (
+                    <span/>
+                )}
             </TableCell>
             <TableCell>
-                <TextField variant="outlined" defaultValue={getDefaultQuantity()}
+            <TextField variant="outlined" onChange={setCustomQuantity} defaultValue={getDefaultQuantity()} value={getQuantityValue()}
                     InputProps={{
                         endAdornment: <InputAdornment position="start">{getTaskUnit()}</InputAdornment>,
                     }}>
