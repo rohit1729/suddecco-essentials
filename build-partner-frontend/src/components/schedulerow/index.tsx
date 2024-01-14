@@ -15,10 +15,18 @@ const ScheduleRow = (props: any) => {
     const material_ref = React.useRef<MaterialState | null>(null);
     const [task_loading, setTask_loading] = useState(false);
     const [material_loading, setMaterialLoading] = useState(false);
-    const [quantity, setQuantity ] = useState(-1);
+
+    const getDefaultQuantityValue = () => {
+        if (props.task.pricing){
+            return props.task.pricing.quantity;
+        }
+        return "";
+    }
+
+    const [quantity, setQuantity ] = useState(getDefaultQuantityValue());
     const [toggle, setToggle] = useState(false);
     
-    console.log("printing props hahs");
+    console.log("printing def hahs");
     console.log(props);
     const handleClick = (type: string) => {
         return (event: React.MouseEvent) => {
@@ -85,8 +93,8 @@ const ScheduleRow = (props: any) => {
     }
 
     const setCustomQuantity = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-        const value = Number.parseFloat(event.target.value);
-        setQuantity(value);
+        console.log("on change getting called");
+        setQuantity(event.target.value);
     }
 
 
@@ -118,7 +126,6 @@ const ScheduleRow = (props: any) => {
     }
 
     const getDefaultQuantity = () => {
-        console.log(props.task.pricing);
         if (props.task.pricing.quantity){
             return props.task.pricing.quantity
         }
@@ -157,9 +164,9 @@ const ScheduleRow = (props: any) => {
     }
 
     const getLineTotal = () => {
-        const quantity = Number.parseFloat(getDefaultQuantity());
+        const quantityValue = Number.parseFloat(quantity);
         const total_unit_cost = Number.parseFloat(getTaskTotalUnitPrice());
-        return (quantity*total_unit_cost).toFixed(2);
+        return (quantityValue*total_unit_cost).toFixed(2);
     }
 
     const getTaskDefaultValue = () => {
@@ -170,9 +177,6 @@ const ScheduleRow = (props: any) => {
     }
 
     const getQuantityValue = () => {
-        if (quantity == -1){
-            return getDefaultQuantity();
-        }
         return quantity;
     }
     
@@ -215,7 +219,7 @@ const ScheduleRow = (props: any) => {
                 )}
             </TableCell>
             <TableCell>
-            <TextField variant="outlined" onChange={setCustomQuantity} defaultValue={getDefaultQuantity()} value={getQuantityValue()}
+            <TextField variant="outlined" onChange={setCustomQuantity} value={getQuantityValue()}
                     InputProps={{
                         endAdornment: <InputAdornment position="start">{getTaskUnit()}</InputAdornment>,
                     }}>

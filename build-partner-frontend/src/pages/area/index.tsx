@@ -16,11 +16,12 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import AreaRow from '../../components/arearow';
 import Paper from '@mui/material/Paper';
-import { Button } from '@mui/material';
+import { Button, LinearProgress } from '@mui/material';
 import SaveIcon from '@mui/icons-material/Save';
 
 const Area = () => {
-    const [fetchedArea, setFetchedArea] = useState(false);
+    const [fetchedArea, setFetchedArea] = useState(true);
+    const [firstFetch, setFirstFetch] = useState(false);
     const dispatch = useDispatch()
 
     const handleClick = () => {
@@ -59,15 +60,17 @@ const Area = () => {
       console.log("printing areas");
       console.log(store.getState().project.areas);
       setFetchedArea(true);
+      setFirstFetch(true);
     }
 
     const areaAvailable = () => {
-      if (fetchedArea) return true;
+      if (firstFetch) return true;
       if (store.getState()?.project?.areas.length > 0) return true;
       return false;
     }
 
     const patchAreasSubmit = async() => {
+      setFetchedArea(false);
       const areas = Object.values(store.getState().project.modifiedAreas);
       const patch_area_response = await patchProjectAreas(areas);
       setProjectAreas();
@@ -108,6 +111,9 @@ const Area = () => {
                   </TableBody>
                 </Table>
               </TableContainer>
+              {!fetchedArea ? (<LinearProgress />):(
+                <span/>
+              )}
             </div>
           )}
         </div>

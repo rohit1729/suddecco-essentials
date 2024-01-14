@@ -1,4 +1,4 @@
-import { Accordion, AccordionDetails, AccordionSummary, MenuItem, Paper, Select, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material';
+import { Accordion, AccordionDetails, AccordionSummary, LinearProgress, MenuItem, Paper, Select, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material';
 import Header from '../../components/Header';
 import React, { useState, useEffect }  from 'react';
 import { store } from '../../redux/store'
@@ -10,6 +10,7 @@ import ScheduleRow from '../../components/schedulerow';
 
 function Schedule() {
     const [fetchedTask, setFetchedTask] = useState(false);
+    const [fetchingTask, setFetchingTask ] = useState(false);
     const dispatch = useDispatch()
 
     const handleClick = () => {
@@ -19,13 +20,14 @@ function Schedule() {
     };
 
     const submitProject = async () => {
-        console.log('Effect triggered on button click');
+        setFetchingTask(true);
         const project_id = store.getState().project.id;
         const response = await getProjectTasks(project_id);
         dispatch(updateProjectAreaStageTasks(response.data["areas"]))
         console.log("after project task dispatch");
         console.log(store.getState().project.areas_stages_tasks);
         setFetchedTask(true)
+        setFetchingTask(false);
     }
   
     return (
@@ -40,7 +42,7 @@ function Schedule() {
           ) : (
             <div>
                 {store.getState().project.areas_stages_tasks.map((row) => (
-                    <Accordion>
+                    <Accordion defaultExpanded>
                         <AccordionSummary
                         expandIcon={<ArrowDropDownIcon />}
                         aria-controls="panel2-content"
@@ -50,7 +52,7 @@ function Schedule() {
                         </AccordionSummary>
                         <AccordionDetails>
                             {row.stages.map((stage) => (
-                                <Accordion>
+                                <Accordion defaultExpanded>
                                     <AccordionSummary
                                     expandIcon={<ArrowDropDownIcon />}
                                     aria-controls="panel2-content"
@@ -85,6 +87,9 @@ function Schedule() {
                 ))}
             </div>
           )}
+          {fetchingTask ? (
+            <LinearProgress />
+          ): (<span />)}
       </div>
     );
 }
