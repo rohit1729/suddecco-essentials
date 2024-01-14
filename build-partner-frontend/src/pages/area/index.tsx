@@ -7,7 +7,7 @@ import { useCreateProjectMutation, useFetchProjectAreasQuery } from '../../servi
 import { CreateProjectRequestBody, ProjectArea } from '../../services/apiTypes';
 import { updateProjectDetail, updateProjectAreas } from '../../redux/slices/projectSlice';
 import { store } from '../../redux/store'
-import { createProject, getProjectAreas } from '../../services/apis';
+import { createProject, getProjectAreas, patchProjectAreas } from '../../services/apis';
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
@@ -16,6 +16,8 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import AreaRow from '../../components/arearow';
 import Paper from '@mui/material/Paper';
+import { Button } from '@mui/material';
+import SaveIcon from '@mui/icons-material/Save';
 
 const Area = () => {
     const [fetchedArea, setFetchedArea] = useState(false);
@@ -48,7 +50,10 @@ const Area = () => {
       console.log(results);
       dispatch(updateProjectDetail(results.data));
       console.log(store.getState().project.id);
+      setProjectAreas();
+    }
 
+    const setProjectAreas = async() => {
       const project_areas_response = await getProjectAreas(store.getState().project.id);
       dispatch(updateProjectAreas(project_areas_response.data.areas));
       console.log("printing areas");
@@ -60,6 +65,12 @@ const Area = () => {
       if (fetchedArea) return true;
       if (store.getState()?.project?.areas.length > 0) return true;
       return false;
+    }
+
+    const patchAreasSubmit = async() => {
+      const areas = Object.values(store.getState().project.modifiedAreas);
+      const patch_area_response = await patchProjectAreas(areas);
+      setProjectAreas();
     }
 
     return (
@@ -74,6 +85,11 @@ const Area = () => {
             </div>
           ) : (
             <div>
+              <div style={{display: "flex", justifyContent: "flex-end", marginRight: "16px", marginTop: "8px"}}>
+                <Button variant="contained" onClick={patchAreasSubmit} style={{backgroundColor: "green", borderRadius: "24px", fontWeight: "550"}} endIcon={<SaveIcon />}>
+                  Save
+                </Button>
+              </div>
               <TableContainer component={Paper}>
                 <Table sx={{ minWidth: 650 }} aria-label="simple table">
                   <TableHead>

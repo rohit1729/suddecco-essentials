@@ -2,6 +2,7 @@
 import axios from 'axios';
 import { useSelector, useDispatch } from 'react-redux'
 import { CreateProjectRequestBody } from './apiTypes';
+import { AreaState } from '../redux/slices/projectSlice';
 
 
 export const createProject =  async(body: CreateProjectRequestBody) => {
@@ -31,5 +32,10 @@ export const getCategoryMaterials = async(category_id: number) => {
 
 export const getAreaComponent = async(aread_id: number, component_id: number) => {
     const response = await axios.get(`http://localhost:3000/areas/${aread_id}?component_area_id=${component_id}`)
+    return response;
+}
+
+export const patchProjectAreas = async(areas: AreaState[]) => {
+    const response = await axios.patch('http://localhost:3000/areas/', areas);
     return response;
 }

@@ -13,7 +13,8 @@ export interface ProjectState {
   user_id: number,
   area_selection: Record<number, number>,
   areas: AreaState[],
-  areas_stages_tasks: AreaStageTaskResponse[]
+  areas_stages_tasks: AreaStageTaskResponse[],
+  modifiedAreas: Record<number, AreaState>
 }
 
 export interface AreaState {
@@ -96,7 +97,8 @@ const initialState: ProjectState = {
   user_id: -1,
   area_selection: {},
   areas: [],
-  areas_stages_tasks: []
+  areas_stages_tasks: [],
+  modifiedAreas: {}
 }
 
 export const projectSlice = createSlice({
@@ -180,11 +182,30 @@ export const projectSlice = createSlice({
         ...state,
         areas_stages_tasks: action.payload
       }
+    },
+    updateModifiedAreas: (state, action: PayloadAction <AreaState>) => {
+      const area_copy = structuredClone(action.payload)
+      console.log("area copy");
+      console.log(area_copy);
+      return {
+        ...state,
+        modifiedAreas: {
+          ...state.modifiedAreas,
+          [action.payload.id]: area_copy
+        }
+      }
     }
   }
 })
 
 // Action creators are generated for each case reducer function
-export const { addSelectedArea, removeSelectedArea, addProjectDetail, updateProjectDetail, updateProjectAreas, updateProjectAreaStageTasks } = projectSlice.actions
+export const { 
+  addSelectedArea, 
+  removeSelectedArea, 
+  addProjectDetail, 
+  updateProjectDetail, 
+  updateProjectAreas, 
+  updateProjectAreaStageTasks,
+  updateModifiedAreas } = projectSlice.actions
 
 export default projectSlice.reducer
